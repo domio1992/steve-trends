@@ -1,8 +1,11 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, ViewChild } from '@angular/core';
 import { PrimeNGConfig, MessageService } from 'primeng/api';
 import dayjs from 'dayjs';
 import { DataService } from '../../assets/data.service';
 import { DailyModel } from '../DailyAnalysis/models/daily.model';
+import { ChartDataset, ChartOptions, ChartType } from 'chart.js';
+import { Color, Label, SingleDataSet, BaseChartDirective } from 'ng2-charts';
+
 var isBetween = require('dayjs/plugin/isBetween');
 dayjs.extend(isBetween);
 declare var Chart: any;
@@ -25,6 +28,50 @@ export class DailyComponent {
   first: number = 0;
   totalRecords: number = 0;
   data: any;
+  @ViewChild(BaseChartDirective) chart: BaseChartDirective;
+
+  // lineChartData: ChartDataset[] = [
+  //   { data: [65, 59, 80, 81, 56, 55, 40], label: 'Series A' }
+  // ];
+  // lineChartLabels: Label[] = [
+  //   'January',
+  //   'February',
+  //   'March',
+  //   'April',
+  //   'May',
+  //   'June',
+  //   'July'
+  // ];
+  // lineChartOptions: ChartOptions & { annotation: any } = {
+  //   responsive: true
+  // };
+  // lineChartColors: Color[] = [
+  //   {
+  //     borderColor: 'black',
+  //     backgroundColor: 'rgba(255,0,0,0.3)'
+  //   }
+  // ];
+  // lineChartLegend = true;
+  // lineChartType = 'line';
+  // plineChartPlugins = [];
+
+  public pieChartOptions = {
+    responsive: true,
+    title: {
+      display: true,
+      text: 'Test'
+    }
+  };
+  public pieChartLabels: Label[] = ['Gap Up', 'Gap Down'];
+  public pieChartData: SingleDataSet = [0, 0];
+  public pieChartType: ChartType = 'pie';
+  public pieChartLegend = true;
+  public pieChartPlugins = [];
+  public pieChartColors = [
+    {
+      backgroundColor: ['#CCFF99', '#ff9b9b']
+    }
+  ];
 
   constructor(
     private primengConfig: PrimeNGConfig,
@@ -179,8 +226,11 @@ export class DailyComponent {
     };
   }
 
-  getChart(ctx, options) {
-    return new Chart(ctx, options);
+  refresh_chart() {
+    setTimeout(() => {
+      this.chart.chart.config.data.datasets = this.pieChartData;
+      this.chart.chart.update();
+    });
   }
 
   @Input() get selectedColumns(): any[] {
@@ -252,13 +302,11 @@ export class DailyComponent {
   }
 
   handleADPDaysClick() {
-    console.log('handleADPDaysClick');
     const earlistEntry = this.dailyModels[this.dailyModels.length - 1];
     const lastEntry = this.dailyModels[0];
     const earlistEntryDayJS = dayjs(earlistEntry.time, 'MM/DD/YYYY')
       .date(1)
       .startOf('day');
-    console.log(earlistEntryDayJS);
     const lastEntryDayJS = dayjs(lastEntry.time, 'MM/DD/YYYY')
       .date(1)
       .startOf('day');
@@ -269,40 +317,39 @@ export class DailyComponent {
       } else if (startDayJS.day() > 3) {
         const daysAhead = 7 - startDayJS.day() + 3;
         startDayJS = startDayJS.add(daysAhead, 'day');
-        console.log('startDayJS g: ', startDayJS, ' - ', daysAhead);
       } else if (startDayJS.day() < 3) {
         const daysAhead = 3 - startDayJS.day();
         startDayJS = startDayJS.add(daysAhead, 'day');
-        console.log('startDayJS l: ', startDayJS);
       }
       filteredDates.push(dayjs(startDayJS));
       startDayJS = startDayJS.date(1);
       startDayJS = startDayJS.add(1, 'month');
     }
-    console.log(filteredDates);
-    const cloneDM = this.dailyModels;
+    const cloneDM = this.dailyModels.slice(0);
     const finalModels = [];
-    filteredDates.forEach(filteredDate =>
-      finalModels.push(
-        cloneDM.filter(
-          model =>
-            dayjs(model.time, 'MM/DD/YYYY').date() === filteredDate.date() &&
-            dayjs(model.time, 'MM/DD/YYYY').month() === filteredDate.month() &&
-            dayjs(model.time, 'MM/DD/YYYY').year() === filteredDate.year()
-        )[0]
-      )
-    );
-    this.dailyModels = finalModels;
+    filteredDates.forEach(filteredDate => {
+      const currentModel = cloneDM.filter(
+        model =>
+          dayjs(model.time, 'MM/DD/YYYY').date() === filteredDate.date() &&
+          dayjs(model.time, 'MM/DD/YYYY').month() === filteredDate.month() &&
+          dayjs(model.time, 'MM/DD/YYYY').year() === filteredDate.year()
+      )[0];
+      if (currentModel) {
+        finalModels.push(currentModel);
+      }
+    });
+    setTimeout(() => {
+      this.totalRecords = finalModels.length;
+      this.dailyModels = finalModels;
+    }, 50);
   }
 
   handleFedJobReportDaysClick() {
-    console.log('handleFedJobReportDaysClick');
     const earlistEntry = this.dailyModels[this.dailyModels.length - 1];
     const lastEntry = this.dailyModels[0];
     const earlistEntryDayJS = dayjs(earlistEntry.time, 'MM/DD/YYYY')
       .date(1)
       .startOf('day');
-    console.log(earlistEntryDayJS);
     const lastEntryDayJS = dayjs(lastEntry.time, 'MM/DD/YYYY')
       .date(1)
       .startOf('day');
@@ -313,30 +360,31 @@ export class DailyComponent {
       } else if (startDayJS.day() > 3) {
         const daysAhead = 7 - startDayJS.day() + 3;
         startDayJS = startDayJS.add(daysAhead + 2, 'day');
-        console.log('startDayJS g: ', startDayJS, ' - ', daysAhead);
       } else if (startDayJS.day() < 3) {
         const daysAhead = 3 - startDayJS.day();
         startDayJS = startDayJS.add(daysAhead + 2, 'day');
-        console.log('startDayJS l: ', startDayJS);
       }
       filteredDates.push(dayjs(startDayJS));
       startDayJS = startDayJS.date(1);
       startDayJS = startDayJS.add(1, 'month');
     }
-    console.log(filteredDates);
-    const cloneDM = this.dailyModels;
+    const cloneDM = this.dailyModels.slice(0);
     const finalModels = [];
-    filteredDates.forEach(filteredDate =>
-      finalModels.push(
-        cloneDM.filter(
-          model =>
-            dayjs(model.time, 'MM/DD/YYYY').date() === filteredDate.date() &&
-            dayjs(model.time, 'MM/DD/YYYY').month() === filteredDate.month() &&
-            dayjs(model.time, 'MM/DD/YYYY').year() === filteredDate.year()
-        )[0]
-      )
-    );
-    this.dailyModels = finalModels;
+    filteredDates.forEach(filteredDate => {
+      const currentModel = cloneDM.filter(
+        model =>
+          dayjs(model.time, 'MM/DD/YYYY').date() === filteredDate.date() &&
+          dayjs(model.time, 'MM/DD/YYYY').month() === filteredDate.month() &&
+          dayjs(model.time, 'MM/DD/YYYY').year() === filteredDate.year()
+      )[0];
+      if (currentModel) {
+        finalModels.push(currentModel);
+      }
+    });
+    setTimeout(() => {
+      this.totalRecords = finalModels.length;
+      this.dailyModels = finalModels;
+    }, 50);
   }
 
   handleClearFilters() {
@@ -349,20 +397,21 @@ export class DailyComponent {
   async loadData() {
     this.showMessage(true, false);
     this.dailyModels = [];
+    this.pieChartData = [0, 0];
     let json = null;
+    let pieData = [0, 0];
     await this.dataService.getData().then(data => (json = data));
-    console.log(json);
     const data = json.data as any[];
     data.forEach((entry, index) => {
       const timeDayJS = dayjs(entry.Time, 'MM/DD/YYYY').startOf('day');
       if (this.selectedDay && timeDayJS.get('date') === this.selectedDay.code) {
-        this.createDailyModel(data, entry, index);
+        this.createDailyModel(data, entry, index, pieData);
       }
       if (
         this.selectedDayOfTheWeek &&
         timeDayJS.day() === this.selectedDayOfTheWeek.code
       ) {
-        this.createDailyModel(data, entry, index);
+        this.createDailyModel(data, entry, index, pieData);
       }
       if (this.rangeDates && this.rangeDates.length >= 2) {
         const firstDate = dayjs(this.rangeDates[0]);
@@ -372,14 +421,17 @@ export class DailyComponent {
           dayjs(timeDayJS).isSame(firstDate, 'day') ||
           dayjs(timeDayJS).isSame(secondDate, 'day')
         ) {
-          this.createDailyModel(data, entry, index);
+          this.createDailyModel(data, entry, index, pieData);
         }
       }
       if (!this.selectedDay && !this.selectedDayOfTheWeek && !this.rangeDates) {
-        this.createDailyModel(data, entry, index);
+        this.createDailyModel(data, entry, index, pieData);
       }
     });
     this.totalRecords = this.dailyModels.length;
+    setTimeout(() => {
+      this.pieChartData = pieData;
+    }, 50);
     if (this.dailyModels.length === 0) {
       this.showMessage(false, true);
       return;
@@ -387,7 +439,7 @@ export class DailyComponent {
     this.showMessage(false, false);
   }
 
-  createDailyModel(displayData, entry, index) {
+  createDailyModel(displayData, entry, index, pieData) {
     let dailyModel: DailyModel = new DailyModel();
     dailyModel.time = entry.Time;
     // Based on previous day
@@ -418,5 +470,10 @@ export class DailyComponent {
     dailyModel.highCloseGap = entry.Last - entry.High;
     dailyModel.volume = entry.Volume;
     this.dailyModels.push(dailyModel);
+    if (dailyModel.openCloseGap > 0) {
+      pieData[0] = pieData[0] + 1;
+    } else if (dailyModel.openCloseGap < 0) {
+      pieData[1] = pieData[1] + 1;
+    }
   }
 }

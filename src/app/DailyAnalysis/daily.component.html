@@ -1,45 +1,104 @@
-<p-toast position="top-center"></p-toast>
+<!-- <p-toast position="top-center"></p-toast> -->
 <!-- <p-table [columns]="selectedColumns" [value]="dailyModels" [paginator]="true" [rows]="50" [showCurrentPageReport]="true"
   currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries" [rowsPerPageOptions]="[10,25,50]"
   styleClass="p-datatable-gridlines p-datatable-sm"> -->
-<!-- <p-chart type="pie" [data]="data"></p-chart> -->
-<p-table [columns]="selectedColumns" [value]="dailyModels" [totalRecords]="totalRecords" [(first)]="first"
-  [paginator]="true" [rows]="10" [showCurrentPageReport]="true"
-  currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries" [rowsPerPageOptions]="[10,25,50]">
+<!-- <div style="display: block; height: 4000px; width: 400px;">
+  <canvas
+    baseChart
+    width="400"
+    height="400"
+    [datasets]="lineChartData"
+    [labels]="lineChartLabels"
+    [options]="lineChartOptions"
+    [colors]="lineChartColors"
+    [legend]="lineChartLegend"
+    [chartType]="lineChartType"
+    [plugins]="lineChartPlugins"
+  >
+  </canvas>
+</div> -->
+<p-table
+  [columns]="selectedColumns"
+  [value]="dailyModels"
+  [totalRecords]="totalRecords"
+  [(first)]="first"
+  [paginator]="true"
+  [rows]="10"
+  [showCurrentPageReport]="true"
+  currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+  [rowsPerPageOptions]="[10,25,50]"
+>
   <ng-template pTemplate="caption">
     <div class="p-grid">
       <div class="p-col-11">
         <div class="p-grid">
           <div class="p-col-fixed">
-            <p-multiSelect [options]="cols" [(ngModel)]="selectedColumns" optionLabel="header"
-              selectedItemsLabel="{0} columns selected" [style]="{minWidth: '200px'}" placeholder="Choose Columns">
+            <p-multiSelect
+              [options]="cols"
+              [(ngModel)]="selectedColumns"
+              optionLabel="header"
+              selectedItemsLabel="{0} columns selected"
+              [style]="{minWidth: '200px'}"
+              placeholder="Choose Columns"
+            >
             </p-multiSelect>
           </div>
           <div class="p-col-fixed">
-            <p-dropdown [options]="days" [(ngModel)]="selectedDay" placeholder="Select a Date" optionLabel="name"
-              (onChange)='onDayChanged($event)' [showClear]="true"></p-dropdown>
+            <p-dropdown
+              [options]="days"
+              [(ngModel)]="selectedDay"
+              placeholder="Select a Date"
+              optionLabel="name"
+              (onChange)="onDayChanged($event)"
+              [showClear]="true"
+            ></p-dropdown>
           </div>
           <div class="p-col-fixed">
-            <p-dropdown [options]="daysOfTheWeek" [(ngModel)]="selectedDayOfTheWeek"
-              placeholder="Select a Day of the Week" optionLabel="name" (onChange)='onDayOfWeekChanged($event)'
-              [showClear]="true"></p-dropdown>
+            <p-dropdown
+              [options]="daysOfTheWeek"
+              [(ngModel)]="selectedDayOfTheWeek"
+              placeholder="Select a Day of the Week"
+              optionLabel="name"
+              (onChange)="onDayOfWeekChanged($event)"
+              [showClear]="true"
+            ></p-dropdown>
           </div>
           <div class="p-col-fixed">
-            <p-calendar [(ngModel)]="rangeDates" [ngClass]="dailyDateRange" placeholder="Select a Date Range"
-              [inputStyle]="{'width': '300px'}" selectionMode="range" [readonlyInput]="true" inputId="range"
-              (onSelect)='onCalendarChange($event)' (onClearClick)='onCalendarClear($event)' [showIcon]="true"
-              showButtonBar="true"></p-calendar>
+            <p-calendar
+              [(ngModel)]="rangeDates"
+              [ngClass]="dailyDateRange"
+              placeholder="Select a Date Range"
+              [inputStyle]="{'width': '300px'}"
+              selectionMode="range"
+              [readonlyInput]="true"
+              inputId="range"
+              (onSelect)="onCalendarChange($event)"
+              (onClearClick)="onCalendarClear($event)"
+              [showIcon]="true"
+              showButtonBar="true"
+            ></p-calendar>
           </div>
           <div class="p-col-fixed">
-            <p-button label="ADP National Employment Report Days" (onClick)="handleADPDaysClick($event)"></p-button>
+            <p-button
+              label="ADP National Employment Report Days"
+              (onClick)="handleADPDaysClick($event)"
+            ></p-button>
           </div>
           <div class="p-col-fixed">
-            <p-button label="Fed Job Report Days" (onClick)="handleFedJobReportDaysClick($event)"></p-button>
+            <p-button
+              label="Fed Job Report Days"
+              (onClick)="handleFedJobReportDaysClick($event)"
+            ></p-button>
           </div>
         </div>
       </div>
       <div class="p-col-1">
-        <button pButton label="Clear Filters" class="p-button-secondary" (click)="handleClearFilters($event)"></button>
+        <button
+          pButton
+          label="Clear Filters"
+          class="p-button-secondary"
+          (click)="handleClearFilters($event)"
+        ></button>
       </div>
     </div>
   </ng-template>
@@ -68,3 +127,17 @@
     </tr>
   </ng-template>
 </p-table>
+<!-- <h3>Open to Close</h3>
+<div class="chart" style="margin-top: 10px; margin-bottom: 10px; width: 500px;">
+  <canvas
+    baseChart
+    [data]="pieChartData"
+    [labels]="pieChartLabels"
+    [chartType]="pieChartType"
+    [options]="pieChartOptions"
+    [plugins]="pieChartPlugins"
+    [legend]="pieChartLegend"
+    [colors]="pieChartColors"
+  >
+  </canvas>
+</div> -->
