@@ -1,0 +1,8 @@
+<p-tree [value]="nodes">
+  <ng-template let-node pTemplate="url">
+    <a [href]="node.data" target="_blank">{{node.label}}</a>
+  </ng-template>
+  <ng-template let-node pTemplate="default">
+    <b>{{node.label}}</b>
+  </ng-template>
+</p-tree>

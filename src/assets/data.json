@@ -1,0 +1,5204 @@
+{
+  "data": [
+    {
+      "Time": "06/01/2021",
+      "Open": 422.57,
+      "High": 422.72,
+      "Low": 419.20,
+      "Last": 419.67,
+      "Change": -0.37,
+      "PercentChange": -0.09,
+      "Volume": 54216600
+    },
+    {
+      "Time": "05/28/2021",
+      "Open": 420.97,
+      "High": 421.25,
+      "Low": 419.79,
+      "Last": 420.04,
+      "Change": 0.75,
+      "PercentChange": 0.18,
+      "Volume": 57447150
+    },
+    {
+      "Time": "05/27/2021",
+      "Open": 420.17,
+      "High": 420.72,
+      "Low": 418.9851,
+      "Last": 419.29,
+      "Change": 0.22,
+      "PercentChange": 0.05,
+      "Volume": 56707600
+    },
+    {
+      "Time": "05/26/2021",
+      "Open": 418.87,
+      "High": 419.61,
+      "Low": 417.76,
+      "Last": 419.07,
+      "Change": 0.83,
+      "PercentChange": 0.20,
+      "Volume": 43088600
+    },
+    {
+      "Time": "05/25/2021",
+      "Open": 420.33,
+      "High": 420.71,
+      "Low": 417.62,
+      "Last": 418.24,
+      "Change": -0.93,
+      "PercentChange": -0.22,
+      "Volume": 57451300
+    },
+    {
+      "Time": "05/24/2021",
+      "Open": 417.34,
+      "High": 420.32,
+      "Low": 417.08,
+      "Last": 419.17,
+      "Change": 4.23,
+      "PercentChange": 1.02,
+      "Volume": 51376700
+    },
+    {
+      "Time": "05/21/2021",
+      "Open": 416.87,
+      "High": 418.2,
+      "Low": 414.45,
+      "Last": 414.94,
+      "Change": -0.34,
+      "PercentChange": -0.08,
+      "Volume": 76578600
+    },
+    {
+      "Time": "05/20/2021",
+      "Open": 411.8,
+      "High": 416.625,
+      "Low": 411.67,
+      "Last": 415.28,
+      "Change": 4.42,
+      "PercentChange": 1.08,
+      "Volume": 78022200
+    },
+    {
+      "Time": "05/19/2021",
+      "Open": 406.92,
+      "High": 411.05,
+      "Low": 405.33,
+      "Last": 410.86,
+      "Change": -1.08,
+      "PercentChange": -0.26,
+      "Volume": 106467000
+    },
+    {
+      "Time": "05/18/2021",
+      "Open": 415.8,
+      "High": 416.06,
+      "Low": 411.77,
+      "Last": 411.94,
+      "Change": -3.58,
+      "PercentChange": -0.86,
+      "Volume": 59810200
+    },
+    {
+      "Time": "05/17/2021",
+      "Open": 415.39,
+      "High": 416.39,
+      "Low": 413.36,
+      "Last": 415.52,
+      "Change": -1.06,
+      "PercentChange": -0.25,
+      "Volume": 65129200
+    },
+    {
+      "Time": "05/14/2021",
+      "Open": 413.21,
+      "High": 417.49,
+      "Low": 413.18,
+      "Last": 416.58,
+      "Change": 6.3,
+      "PercentChange": 1.54,
+      "Volume": 82201600
+    },
+    {
+      "Time": "05/13/2021",
+      "Open": 407.07,
+      "High": 412.35,
+      "Low": 407.02,
+      "Last": 410.28,
+      "Change": 4.87,
+      "PercentChange": 1.20,
+      "Volume": 106393904
+    },
+    {
+      "Time": "05/12/2021",
+      "Open": 411.23,
+      "High": 412.59,
+      "Low": 404,
+      "Last": 405.41,
+      "Change": -8.8,
+      "PercentChange": -2.12,
+      "Volume": 134811008
+    },
+    {
+      "Time": "05/11/2021",
+      "Open": 413.1,
+      "High": 415.27,
+      "Low": 410.06,
+      "Last": 414.21,
+      "Change": -3.73,
+      "PercentChange": -0.89,
+      "Volume": 116887904
+    },
+    {
+      "Time": "05/10/2021",
+      "Open": 422.5,
+      "High": 422.74,
+      "Low": 417.81,
+      "Last": 417.94,
+      "Change": -4.18,
+      "PercentChange": -0.99,
+      "Volume": 81852400
+    },
+    {
+      "Time": "05/07/2021",
+      "Open": 419.89,
+      "High": 422.815,
+      "Low": 419.16,
+      "Last": 422.12,
+      "Change": 3.05,
+      "PercentChange": 0.73,
+      "Volume": 67733696
+    },
+    {
+      "Time": "05/06/2021",
+      "Open": 415.83,
+      "High": 419.21,
+      "Low": 413.675,
+      "Last": 419.07,
+      "Change": 3.32,
+      "PercentChange": 0.80,
+      "Volume": 74321296
+    },
+    {
+      "Time": "05/05/2021",
+      "Open": 417.38,
+      "High": 417.63,
+      "Low": 414.94,
+      "Last": 415.75,
+      "Change": 0.13,
+      "PercentChange": 0.03,
+      "Volume": 60284600
+    },
+    {
+      "Time": "05/04/2021",
+      "Open": 416.07,
+      "High": 416.6,
+      "Low": 411.67,
+      "Last": 415.62,
+      "Change": -2.58,
+      "PercentChange": -0.62,
+      "Volume": 101591104
+    },
+    {
+      "Time": "05/03/2021",
+      "Open": 419.43,
+      "High": 419.84,
+      "Low": 417.665,
+      "Last": 418.2,
+      "Change": 0.9,
+      "PercentChange": 0.22,
+      "Volume": 68128200
+    },
+    {
+      "Time": "04/30/2021",
+      "Open": 417.63,
+      "High": 418.54,
+      "Low": 416.34,
+      "Last": 417.3,
+      "Change": -2.76,
+      "PercentChange": -0.66,
+      "Volume": 85527000
+    },
+    {
+      "Time": "04/29/2021",
+      "Open": 420.32,
+      "High": 420.72,
+      "Low": 416.44,
+      "Last": 420.06,
+      "Change": 2.66,
+      "PercentChange": 0.64,
+      "Volume": 78544304
+    },
+    {
+      "Time": "04/28/2021",
+      "Open": 417.81,
+      "High": 419.01,
+      "Low": 416.9,
+      "Last": 417.4,
+      "Change": -0.12,
+      "PercentChange": -0.03,
+      "Volume": 51238800
+    },
+    {
+      "Time": "04/27/2021",
+      "Open": 417.93,
+      "High": 418.14,
+      "Low": 416.3,
+      "Last": 417.52,
+      "Change": -0.09,
+      "PercentChange": -0.02,
+      "Volume": 51303000
+    },
+    {
+      "Time": "04/26/2021",
+      "Open": 417.44,
+      "High": 418.22,
+      "Low": 416.8111,
+      "Last": 417.61,
+      "Change": 0.87,
+      "PercentChange": 0.21,
+      "Volume": 52182300
+    },
+    {
+      "Time": "04/23/2021",
+      "Open": 412.87,
+      "High": 418.25,
+      "Low": 412.79,
+      "Last": 416.74,
+      "Change": 4.47,
+      "PercentChange": 1.08,
+      "Volume": 73276096
+    },
+    {
+      "Time": "04/22/2021",
+      "Open": 415.89,
+      "High": 416.78,
+      "Low": 411.13,
+      "Last": 412.27,
+      "Change": -3.8,
+      "PercentChange": -0.91,
+      "Volume": 97582704
+    },
+    {
+      "Time": "04/21/2021",
+      "Open": 411.51,
+      "High": 416.29,
+      "Low": 411.36,
+      "Last": 416.07,
+      "Change": 3.9,
+      "PercentChange": 0.95,
+      "Volume": 66792900
+    },
+    {
+      "Time": "04/20/2021",
+      "Open": 413.91,
+      "High": 415.0859,
+      "Low": 410.59,
+      "Last": 412.17,
+      "Change": -3.04,
+      "PercentChange": -0.73,
+      "Volume": 81851800
+    },
+    {
+      "Time": "04/19/2021",
+      "Open": 416.26,
+      "High": 416.74,
+      "Low": 413.79,
+      "Last": 415.21,
+      "Change": -2.05,
+      "PercentChange": -0.49,
+      "Volume": 78498400
+    },
+    {
+      "Time": "04/16/2021",
+      "Open": 417.25,
+      "High": 417.91,
+      "Low": 415.73,
+      "Last": 417.26,
+      "Change": 1.39,
+      "PercentChange": 0.33,
+      "Volume": 82037200
+    },
+    {
+      "Time": "04/15/2021",
+      "Open": 413.74,
+      "High": 416.16,
+      "Low": 413.69,
+      "Last": 415.87,
+      "Change": 4.42,
+      "PercentChange": 1.07,
+      "Volume": 60229800
+    },
+    {
+      "Time": "04/14/2021",
+      "Open": 412.83,
+      "High": 413.96,
+      "Low": 410.87,
+      "Last": 411.45,
+      "Change": -1.41,
+      "PercentChange": -0.34,
+      "Volume": 61659900
+    },
+    {
+      "Time": "04/13/2021",
+      "Open": 411.53,
+      "High": 413.529,
+      "Low": 411.12,
+      "Last": 412.86,
+      "Change": 1.22,
+      "PercentChange": 0.30,
+      "Volume": 56550900
+    },
+    {
+      "Time": "04/12/2021",
+      "Open": 410.85,
+      "High": 411.93,
+      "Low": 410.2,
+      "Last": 411.64,
+      "Change": 0.15,
+      "PercentChange": 0.04,
+      "Volume": 56704900
+    },
+    {
+      "Time": "04/09/2021",
+      "Open": 408.39,
+      "High": 411.67,
+      "Low": 408.26,
+      "Last": 411.49,
+      "Change": 2.97,
+      "PercentChange": 0.73,
+      "Volume": 61104500
+    },
+    {
+      "Time": "04/08/2021",
+      "Open": 407.93,
+      "High": 408.58,
+      "Low": 406.93,
+      "Last": 408.52,
+      "Change": 1.93,
+      "PercentChange": 0.47,
+      "Volume": 57863100
+    },
+    {
+      "Time": "04/07/2021",
+      "Open": 405.94,
+      "High": 406.96,
+      "Low": 405.45,
+      "Last": 406.59,
+      "Change": 0.47,
+      "PercentChange": 0.12,
+      "Volume": 55836200
+    },
+    {
+      "Time": "04/06/2021",
+      "Open": 405.76,
+      "High": 407.24,
+      "Low": 405.4,
+      "Last": 406.12,
+      "Change": -0.24,
+      "PercentChange": -0.06,
+      "Volume": 62020900
+    },
+    {
+      "Time": "04/05/2021",
+      "Open": 403.46,
+      "High": 406.94,
+      "Low": 403.38,
+      "Last": 406.36,
+      "Change": 5.75,
+      "PercentChange": 1.44,
+      "Volume": 91684704
+    },
+    {
+      "Time": "04/01/2021",
+      "Open": 398.4,
+      "High": 400.67,
+      "Low": 398.18,
+      "Last": 400.61,
+      "Change": 4.28,
+      "PercentChange": 1.08,
+      "Volume": 99682800
+    },
+    {
+      "Time": "03/31/2021",
+      "Open": 395.34,
+      "High": 398,
+      "Low": 395.31,
+      "Last": 396.33,
+      "Change": 1.6,
+      "PercentChange": 0.41,
+      "Volume": 112734200
+    },
+    {
+      "Time": "03/30/2021",
+      "Open": 394.42,
+      "High": 395.45,
+      "Low": 393.02,
+      "Last": 394.73,
+      "Change": -1.05,
+      "PercentChange": -0.27,
+      "Volume": 76262200
+    },
+    {
+      "Time": "03/29/2021",
+      "Open": 394.4,
+      "High": 396.75,
+      "Low": 392.81,
+      "Last": 395.78,
+      "Change": -0.2,
+      "PercentChange": -0.05,
+      "Volume": 108107600
+    },
+    {
+      "Time": "03/26/2021",
+      "Open": 390.93,
+      "High": 396.41,
+      "Low": 390.29,
+      "Last": 395.98,
+      "Change": 6.28,
+      "PercentChange": 1.61,
+      "Volume": 114409104
+    },
+    {
+      "Time": "03/25/2021",
+      "Open": 385.98,
+      "High": 390.55,
+      "Low": 383.9,
+      "Last": 389.7,
+      "Change": 2.18,
+      "PercentChange": 0.56,
+      "Volume": 116128600
+    },
+    {
+      "Time": "03/24/2021",
+      "Open": 391,
+      "High": 392.75,
+      "Low": 387.47,
+      "Last": 387.52,
+      "Change": -1.98,
+      "PercentChange": -0.51,
+      "Volume": 97588600
+    },
+    {
+      "Time": "03/23/2021",
+      "Open": 391.91,
+      "High": 393.46,
+      "Low": 388.66,
+      "Last": 389.5,
+      "Change": -3.09,
+      "PercentChange": -0.79,
+      "Volume": 90686496
+    },
+    {
+      "Time": "03/22/2021",
+      "Open": 390.03,
+      "High": 394.07,
+      "Low": 389.97,
+      "Last": 392.59,
+      "Change": 3.11,
+      "PercentChange": 0.80,
+      "Volume": 73778600
+    },
+    {
+      "Time": "03/19/2021",
+      "Open": 389.88,
+      "High": 391.569,
+      "Low": 387.15,
+      "Last": 389.48,
+      "Change": -2,
+      "PercentChange": -0.51,
+      "Volume": 113624400
+    },
+    {
+      "Time": "03/18/2021",
+      "Open": 394.48,
+      "High": 396.72,
+      "Low": 390.75,
+      "Last": 391.48,
+      "Change": -5.78,
+      "PercentChange": -1.45,
+      "Volume": 115349104
+    },
+    {
+      "Time": "03/17/2021",
+      "Open": 394.53,
+      "High": 398.12,
+      "Low": 393.3,
+      "Last": 397.26,
+      "Change": 1.35,
+      "PercentChange": 0.34,
+      "Volume": 97959200
+    },
+    {
+      "Time": "03/16/2021",
+      "Open": 397.07,
+      "High": 397.83,
+      "Low": 395.08,
+      "Last": 395.91,
+      "Change": -0.5,
+      "PercentChange": -0.13,
+      "Volume": 73722496
+    },
+    {
+      "Time": "03/15/2021",
+      "Open": 394.33,
+      "High": 396.685,
+      "Low": 392.03,
+      "Last": 396.41,
+      "Change": 2.35,
+      "PercentChange": 0.60,
+      "Volume": 73592304
+    },
+    {
+      "Time": "03/12/2021",
+      "Open": 392.07,
+      "High": 394.21,
+      "Low": 391.2,
+      "Last": 394.06,
+      "Change": 0.53,
+      "PercentChange": 0.13,
+      "Volume": 64653500
+    },
+    {
+      "Time": "03/11/2021",
+      "Open": 392.23,
+      "High": 395.65,
+      "Low": 391.74,
+      "Last": 393.53,
+      "Change": 3.95,
+      "PercentChange": 1.01,
+      "Volume": 86245000
+    },
+    {
+      "Time": "03/10/2021",
+      "Open": 389.69,
+      "High": 391.4,
+      "Low": 388.1702,
+      "Last": 389.58,
+      "Change": 2.41,
+      "PercentChange": 0.62,
+      "Volume": 109899400
+    },
+    {
+      "Time": "03/09/2021",
+      "Open": 385.85,
+      "High": 389.91,
+      "Low": 381.7299,
+      "Last": 387.17,
+      "Change": 5.45,
+      "PercentChange": 1.43,
+      "Volume": 113633504
+    },
+    {
+      "Time": "03/08/2021",
+      "Open": 384.66,
+      "High": 387.68,
+      "Low": 381.42,
+      "Last": 381.72,
+      "Change": -1.91,
+      "PercentChange": -0.50,
+      "Volume": 123149200
+    },
+    {
+      "Time": "03/05/2021",
+      "Open": 380.46,
+      "High": 384.76,
+      "Low": 372.64,
+      "Last": 383.63,
+      "Change": 6.93,
+      "PercentChange": 1.84,
+      "Volume": 152039600
+    },
+    {
+      "Time": "03/04/2021",
+      "Open": 381.22,
+      "High": 384,
+      "Low": 371.88,
+      "Last": 376.7,
+      "Change": -4.72,
+      "PercentChange": -1.24,
+      "Volume": 183432992
+    },
+    {
+      "Time": "03/03/2021",
+      "Open": 385.79,
+      "High": 386.83,
+      "Low": 381.31,
+      "Last": 381.42,
+      "Change": -5.12,
+      "PercentChange": -1.32,
+      "Volume": 119940200
+    },
+    {
+      "Time": "03/02/2021",
+      "Open": 389.82,
+      "High": 390.07,
+      "Low": 386,
+      "Last": 386.54,
+      "Change": -3.04,
+      "PercentChange": -0.78,
+      "Volume": 79595296
+    },
+    {
+      "Time": "03/01/2021",
+      "Open": 385.59,
+      "High": 390.92,
+      "Low": 380.572,
+      "Last": 389.58,
+      "Change": 9.22,
+      "PercentChange": 2.42,
+      "Volume": 105348800
+    },
+    {
+      "Time": "02/26/2021",
+      "Open": 384.35,
+      "High": 385.58,
+      "Low": 378.23,
+      "Last": 380.36,
+      "Change": -1.97,
+      "PercentChange": -0.52,
+      "Volume": 152701600
+    },
+    {
+      "Time": "02/25/2021",
+      "Open": 390.41,
+      "High": 391.88,
+      "Low": 380.7789,
+      "Last": 382.33,
+      "Change": -9.44,
+      "PercentChange": -2.41,
+      "Volume": 146670496
+    },
+    {
+      "Time": "02/24/2021",
+      "Open": 386.33,
+      "High": 392.23,
+      "Low": 385.27,
+      "Last": 391.77,
+      "Change": 4.27,
+      "PercentChange": 1.10,
+      "Volume": 72433904
+    },
+    {
+      "Time": "02/23/2021",
+      "Open": 384.66,
+      "High": 388.945,
+      "Low": 380.2,
+      "Last": 387.5,
+      "Change": 0.47,
+      "PercentChange": 0.12,
+      "Volume": 107284096
+    },
+    {
+      "Time": "02/22/2021",
+      "Open": 387.06,
+      "High": 389.62,
+      "Low": 386.74,
+      "Last": 387.03,
+      "Change": -3,
+      "PercentChange": -0.77,
+      "Volume": 67414096
+    },
+    {
+      "Time": "02/19/2021",
+      "Open": 392.07,
+      "High": 392.38,
+      "Low": 389.55,
+      "Last": 390.03,
+      "Change": -0.69,
+      "PercentChange": -0.18,
+      "Volume": 83240896
+    },
+    {
+      "Time": "02/18/2021",
+      "Open": 389.59,
+      "High": 391.515,
+      "Low": 387.74,
+      "Last": 390.72,
+      "Change": -1.67,
+      "PercentChange": -0.43,
+      "Volume": 59712700
+    },
+    {
+      "Time": "02/17/2021",
+      "Open": 390.42,
+      "High": 392.66,
+      "Low": 389.33,
+      "Last": 392.39,
+      "Change": 0.09,
+      "PercentChange": 0.02,
+      "Volume": 52806600
+    },
+    {
+      "Time": "02/16/2021",
+      "Open": 393.96,
+      "High": 394.17,
+      "Low": 391.53,
+      "Last": 392.3,
+      "Change": -0.34,
+      "PercentChange": -0.09,
+      "Volume": 50972300
+    },
+    {
+      "Time": "02/12/2021",
+      "Open": 389.85,
+      "High": 392.9,
+      "Low": 389.77,
+      "Last": 392.64,
+      "Change": 1.93,
+      "PercentChange": 0.49,
+      "Volume": 50593200
+    },
+    {
+      "Time": "02/11/2021",
+      "Open": 391.24,
+      "High": 391.69,
+      "Low": 388.1,
+      "Last": 390.71,
+      "Change": 0.63,
+      "PercentChange": 0.16,
+      "Volume": 42913200
+    },
+    {
+      "Time": "02/10/2021",
+      "Open": 392.12,
+      "High": 392.28,
+      "Low": 387.5,
+      "Last": 390.08,
+      "Change": -0.17,
+      "PercentChange": -0.04,
+      "Volume": 59154300
+    },
+    {
+      "Time": "02/09/2021",
+      "Open": 389.61,
+      "High": 390.89,
+      "Low": 389.17,
+      "Last": 390.25,
+      "Change": -0.26,
+      "PercentChange": -0.07,
+      "Volume": 35551000
+    },
+    {
+      "Time": "02/08/2021",
+      "Open": 389.27,
+      "High": 390.56,
+      "Low": 388.35,
+      "Last": 390.51,
+      "Change": 2.8,
+      "PercentChange": 0.72,
+      "Volume": 38365100
+    },
+    {
+      "Time": "02/05/2021",
+      "Open": 388.2,
+      "High": 388.47,
+      "Low": 386.1444,
+      "Last": 387.71,
+      "Change": 1.52,
+      "PercentChange": 0.39,
+      "Volume": 48669700
+    },
+    {
+      "Time": "02/04/2021",
+      "Open": 382.96,
+      "High": 386.24,
+      "Low": 381.9655,
+      "Last": 386.19,
+      "Change": 4.34,
+      "PercentChange": 1.14,
+      "Volume": 47142500
+    },
+    {
+      "Time": "02/03/2021",
+      "Open": 382.43,
+      "High": 383.7,
+      "Low": 380.48,
+      "Last": 381.85,
+      "Change": 0.3,
+      "PercentChange": 0.08,
+      "Volume": 52427000
+    },
+    {
+      "Time": "02/02/2021",
+      "Open": 379.65,
+      "High": 383.22,
+      "Low": 376.3181,
+      "Last": 381.55,
+      "Change": 5.32,
+      "PercentChange": 1.41,
+      "Volume": 64450600
+    },
+    {
+      "Time": "02/01/2021",
+      "Open": 373.72,
+      "High": 377.34,
+      "Low": 370.376,
+      "Last": 376.23,
+      "Change": 6.16,
+      "PercentChange": 1.66,
+      "Volume": 75817600
+    },
+    {
+      "Time": "01/29/2021",
+      "Open": 375.63,
+      "High": 376.67,
+      "Low": 368.27,
+      "Last": 370.07,
+      "Change": -7.56,
+      "PercentChange": -2.00,
+      "Volume": 126765104
+    },
+    {
+      "Time": "01/28/2021",
+      "Open": 376.36,
+      "High": 381.93,
+      "Low": 375.89,
+      "Last": 377.63,
+      "Change": 3.22,
+      "PercentChange": 0.86,
+      "Volume": 94198096
+    },
+    {
+      "Time": "01/27/2021",
+      "Open": 380.22,
+      "High": 380.32,
+      "Low": 372.01,
+      "Last": 374.41,
+      "Change": -9.38,
+      "PercentChange": -2.44,
+      "Volume": 123351000
+    },
+    {
+      "Time": "01/26/2021",
+      "Open": 385.41,
+      "High": 385.85,
+      "Low": 383.54,
+      "Last": 383.79,
+      "Change": -0.6,
+      "PercentChange": -0.16,
+      "Volume": 42665200
+    },
+    {
+      "Time": "01/25/2021",
+      "Open": 383.67,
+      "High": 384.77,
+      "Low": 378.46,
+      "Last": 384.39,
+      "Change": 1.51,
+      "PercentChange": 0.39,
+      "Volume": 70401904
+    },
+    {
+      "Time": "01/22/2021",
+      "Open": 382.25,
+      "High": 384.1256,
+      "Low": 381.835,
+      "Last": 382.88,
+      "Change": -1.36,
+      "PercentChange": -0.35,
+      "Volume": 52136900
+    },
+    {
+      "Time": "01/21/2021",
+      "Open": 384.49,
+      "High": 384.95,
+      "Low": 383.25,
+      "Last": 384.24,
+      "Change": 0.35,
+      "PercentChange": 0.09,
+      "Volume": 47955800
+    },
+    {
+      "Time": "01/20/2021",
+      "Open": 381.11,
+      "High": 384.79,
+      "Low": 380.69,
+      "Last": 383.89,
+      "Change": 5.24,
+      "PercentChange": 1.38,
+      "Volume": 61836000
+    },
+    {
+      "Time": "01/19/2021",
+      "Open": 378.34,
+      "High": 379.23,
+      "Low": 376.75,
+      "Last": 378.65,
+      "Change": 2.95,
+      "PercentChange": 0.79,
+      "Volume": 51233300
+    },
+    {
+      "Time": "01/15/2021",
+      "Open": 376.72,
+      "High": 377.58,
+      "Low": 373.7,
+      "Last": 375.7,
+      "Change": -2.76,
+      "PercentChange": -0.73,
+      "Volume": 107159904
+    },
+    {
+      "Time": "01/14/2021",
+      "Open": 380.59,
+      "High": 381.13,
+      "Low": 378.1,
+      "Last": 378.46,
+      "Change": -1.33,
+      "PercentChange": -0.35,
+      "Volume": 49989100
+    },
+    {
+      "Time": "01/13/2021",
+      "Open": 378.69,
+      "High": 380.86,
+      "Low": 377.85,
+      "Last": 379.79,
+      "Change": 1.02,
+      "PercentChange": 0.27,
+      "Volume": 45303600
+    },
+    {
+      "Time": "01/12/2021",
+      "Open": 378.89,
+      "High": 379.86,
+      "Low": 376.36,
+      "Last": 378.77,
+      "Change": 0.08,
+      "PercentChange": 0.02,
+      "Volume": 52547700
+    },
+    {
+      "Time": "01/11/2021",
+      "Open": 377.85,
+      "High": 380.58,
+      "Low": 377.7189,
+      "Last": 378.69,
+      "Change": -2.57,
+      "PercentChange": -0.67,
+      "Volume": 51176700
+    },
+    {
+      "Time": "01/08/2021",
+      "Open": 380.59,
+      "High": 381.49,
+      "Low": 377.1,
+      "Last": 381.26,
+      "Change": 2.16,
+      "PercentChange": 0.57,
+      "Volume": 71677200
+    },
+    {
+      "Time": "01/07/2021",
+      "Open": 376.1,
+      "High": 379.9,
+      "Low": 375.91,
+      "Last": 379.1,
+      "Change": 5.55,
+      "PercentChange": 1.49,
+      "Volume": 68766800
+    },
+    {
+      "Time": "01/06/2021",
+      "Open": 369.71,
+      "High": 376.98,
+      "Low": 369.12,
+      "Last": 373.55,
+      "Change": 2.22,
+      "PercentChange": 0.60,
+      "Volume": 107997600
+    },
+    {
+      "Time": "01/05/2021",
+      "Open": 368.1,
+      "High": 372.5,
+      "Low": 368.05,
+      "Last": 371.33,
+      "Change": 2.54,
+      "PercentChange": 0.69,
+      "Volume": 66426200
+    },
+    {
+      "Time": "01/04/2021",
+      "Open": 375.31,
+      "High": 375.45,
+      "Low": 364.82,
+      "Last": 368.79,
+      "Change": -5.09,
+      "PercentChange": -1.36,
+      "Volume": 110210800
+    },
+    {
+      "Time": "12/31/2020",
+      "Open": 371.78,
+      "High": 374.66,
+      "Low": 371.232,
+      "Last": 373.88,
+      "Change": 1.89,
+      "PercentChange": 0.51,
+      "Volume": 78520704
+    },
+    {
+      "Time": "12/30/2020",
+      "Open": 372.34,
+      "High": 373.1,
+      "Low": 371.57,
+      "Last": 371.99,
+      "Change": 0.53,
+      "PercentChange": 0.14,
+      "Volume": 49455200
+    },
+    {
+      "Time": "12/29/2020",
+      "Open": 373.81,
+      "High": 374,
+      "Low": 370.83,
+      "Last": 371.46,
+      "Change": -0.71,
+      "PercentChange": -0.19,
+      "Volume": 53680400
+    },
+    {
+      "Time": "12/28/2020",
+      "Open": 371.74,
+      "High": 372.59,
+      "Low": 371.07,
+      "Last": 372.17,
+      "Change": 3.17,
+      "PercentChange": 0.86,
+      "Volume": 39000400
+    },
+    {
+      "Time": "12/24/2020",
+      "Open": 368.08,
+      "High": 369.03,
+      "Low": 367.45,
+      "Last": 369,
+      "Change": 1.43,
+      "PercentChange": 0.39,
+      "Volume": 26457800
+    },
+    {
+      "Time": "12/23/2020",
+      "Open": 368.28,
+      "High": 369.62,
+      "Low": 367.2172,
+      "Last": 367.57,
+      "Change": 0.33,
+      "PercentChange": 0.09,
+      "Volume": 46201400
+    },
+    {
+      "Time": "12/22/2020",
+      "Open": 368.21,
+      "High": 368.3317,
+      "Low": 366.03,
+      "Last": 367.24,
+      "Change": -0.62,
+      "PercentChange": -0.17,
+      "Volume": 48388400
+    },
+    {
+      "Time": "12/21/2020",
+      "Open": 364.97,
+      "High": 378.46,
+      "Low": 362.03,
+      "Last": 367.86,
+      "Change": -1.32,
+      "PercentChange": -0.36,
+      "Volume": 96386704
+    },
+    {
+      "Time": "12/18/2020",
+      "Open": 370.97,
+      "High": 371.15,
+      "Low": 367.02,
+      "Last": 369.18,
+      "Change": -3.06,
+      "PercentChange": -0.82,
+      "Volume": 136542304
+    },
+    {
+      "Time": "12/17/2020",
+      "Open": 371.94,
+      "High": 372.46,
+      "Low": 371.05,
+      "Last": 372.24,
+      "Change": 2.07,
+      "PercentChange": 0.56,
+      "Volume": 64119400
+    },
+    {
+      "Time": "12/16/2020",
+      "Open": 369.82,
+      "High": 371.16,
+      "Low": 368.8676,
+      "Last": 370.17,
+      "Change": 0.58,
+      "PercentChange": 0.16,
+      "Volume": 58420500
+    },
+    {
+      "Time": "12/15/2020",
+      "Open": 367.4,
+      "High": 369.59,
+      "Low": 365.92,
+      "Last": 369.59,
+      "Change": 4.93,
+      "PercentChange": 1.35,
+      "Volume": 64071100
+    },
+    {
+      "Time": "12/14/2020",
+      "Open": 368.64,
+      "High": 369.8,
+      "Low": 364.47,
+      "Last": 364.66,
+      "Change": -1.64,
+      "PercentChange": -0.45,
+      "Volume": 69216096
+    },
+    {
+      "Time": "12/11/2020",
+      "Open": 364.9,
+      "High": 366.7402,
+      "Low": 363.26,
+      "Last": 366.3,
+      "Change": -0.43,
+      "PercentChange": -0.12,
+      "Volume": 57698600
+    },
+    {
+      "Time": "12/10/2020",
+      "Open": 365.37,
+      "High": 367.86,
+      "Low": 364.43,
+      "Last": 366.73,
+      "Change": -0.12,
+      "PercentChange": -0.03,
+      "Volume": 57735300
+    },
+    {
+      "Time": "12/09/2020",
+      "Open": 370.88,
+      "High": 371.05,
+      "Low": 365.95,
+      "Last": 366.85,
+      "Change": -3.32,
+      "PercentChange": -0.90,
+      "Volume": 74098304
+    },
+    {
+      "Time": "12/08/2020",
+      "Open": 367.72,
+      "High": 370.78,
+      "Low": 367.67,
+      "Last": 370.17,
+      "Change": 1.08,
+      "PercentChange": 0.29,
+      "Volume": 42458800
+    },
+    {
+      "Time": "12/07/2020",
+      "Open": 369.02,
+      "High": 369.62,
+      "Low": 367.72,
+      "Last": 369.09,
+      "Change": -0.76,
+      "PercentChange": -0.21,
+      "Volume": 48944200
+    },
+    {
+      "Time": "12/04/2020",
+      "Open": 367.32,
+      "High": 369.85,
+      "Low": 367.22,
+      "Last": 369.85,
+      "Change": 3.16,
+      "PercentChange": 0.86,
+      "Volume": 50749800
+    },
+    {
+      "Time": "12/03/2020",
+      "Open": 366.68,
+      "High": 368.19,
+      "Low": 365.5,
+      "Last": 366.69,
+      "Change": -0.1,
+      "PercentChange": -0.03,
+      "Volume": 62882000
+    },
+    {
+      "Time": "12/02/2020",
+      "Open": 364.82,
+      "High": 366.96,
+      "Low": 364.2,
+      "Last": 366.79,
+      "Change": 0.77,
+      "PercentChange": 0.21,
+      "Volume": 45927000
+    },
+    {
+      "Time": "12/01/2020",
+      "Open": 365.57,
+      "High": 367.68,
+      "Low": 364.93,
+      "Last": 366.02,
+      "Change": 3.96,
+      "PercentChange": 1.09,
+      "Volume": 74504896
+    },
+    {
+      "Time": "11/30/2020",
+      "Open": 362.83,
+      "High": 363.12,
+      "Low": 359.17,
+      "Last": 362.06,
+      "Change": -1.61,
+      "PercentChange": -0.44,
+      "Volume": 83872704
+    },
+    {
+      "Time": "11/27/2020",
+      "Open": 363.84,
+      "High": 364.18,
+      "Low": 362.58,
+      "Last": 363.67,
+      "Change": 1.01,
+      "PercentChange": 0.28,
+      "Volume": 28514000
+    },
+    {
+      "Time": "11/25/2020",
+      "Open": 363.13,
+      "High": 363.16,
+      "Low": 361.48,
+      "Last": 362.66,
+      "Change": -0.56,
+      "PercentChange": -0.15,
+      "Volume": 45330800
+    },
+    {
+      "Time": "11/24/2020",
+      "Open": 360.21,
+      "High": 363.81,
+      "Low": 359.29,
+      "Last": 363.22,
+      "Change": 5.76,
+      "PercentChange": 1.61,
+      "Volume": 62415800
+    },
+    {
+      "Time": "11/23/2020",
+      "Open": 357.28,
+      "High": 358.82,
+      "Low": 354.865,
+      "Last": 357.46,
+      "Change": 2.13,
+      "PercentChange": 0.60,
+      "Volume": 63230600
+    },
+    {
+      "Time": "11/20/2020",
+      "Open": 357.5,
+      "High": 357.72,
+      "Low": 355.25,
+      "Last": 355.33,
+      "Change": -2.45,
+      "PercentChange": -0.68,
+      "Volume": 70411800
+    },
+    {
+      "Time": "11/19/2020",
+      "Open": 355.6,
+      "High": 358.18,
+      "Low": 354.15,
+      "Last": 357.78,
+      "Change": 1.5,
+      "PercentChange": 0.42,
+      "Volume": 59940900
+    },
+    {
+      "Time": "11/18/2020",
+      "Open": 360.91,
+      "High": 361.5,
+      "Low": 356.24,
+      "Last": 356.28,
+      "Change": -4.34,
+      "PercentChange": -1.20,
+      "Volume": 70591296
+    },
+    {
+      "Time": "11/17/2020",
+      "Open": 359.97,
+      "High": 361.92,
+      "Low": 358.34,
+      "Last": 360.62,
+      "Change": -1.95,
+      "PercentChange": -0.54,
+      "Volume": 66111000
+    },
+    {
+      "Time": "11/16/2020",
+      "Open": 360.98,
+      "High": 362.78,
+      "Low": 359.59,
+      "Last": 362.57,
+      "Change": 4.47,
+      "PercentChange": 1.25,
+      "Volume": 74541104
+    },
+    {
+      "Time": "11/13/2020",
+      "Open": 355.27,
+      "High": 358.9,
+      "Low": 354.71,
+      "Last": 358.1,
+      "Change": 4.89,
+      "PercentChange": 1.38,
+      "Volume": 62959400
+    },
+    {
+      "Time": "11/12/2020",
+      "Open": 355.58,
+      "High": 356.7182,
+      "Low": 351.26,
+      "Last": 353.21,
+      "Change": -3.46,
+      "PercentChange": -0.97,
+      "Volume": 68118496
+    },
+    {
+      "Time": "11/11/2020",
+      "Open": 356.4,
+      "High": 357.56,
+      "Low": 355.06,
+      "Last": 356.67,
+      "Change": 2.63,
+      "PercentChange": 0.74,
+      "Volume": 58649000
+    },
+    {
+      "Time": "11/10/2020",
+      "Open": 353.49,
+      "High": 355.18,
+      "Low": 350.51,
+      "Last": 354.04,
+      "Change": -0.52,
+      "PercentChange": -0.15,
+      "Volume": 85552000
+    },
+    {
+      "Time": "11/09/2020",
+      "Open": 363.97,
+      "High": 364.38,
+      "Low": 354.06,
+      "Last": 354.56,
+      "Change": 4.4,
+      "PercentChange": 1.26,
+      "Volume": 172304192
+    },
+    {
+      "Time": "11/06/2020",
+      "Open": 349.93,
+      "High": 351.51,
+      "Low": 347.65,
+      "Last": 350.16,
+      "Change": -0.08,
+      "PercentChange": -0.02,
+      "Volume": 74972896
+    },
+    {
+      "Time": "11/05/2020",
+      "Open": 349.24,
+      "High": 352.19,
+      "Low": 348.86,
+      "Last": 350.24,
+      "Change": 6.7,
+      "PercentChange": 1.95,
+      "Volume": 82039696
+    },
+    {
+      "Time": "11/04/2020",
+      "Open": 340.86,
+      "High": 347.94,
+      "Low": 339.59,
+      "Last": 343.54,
+      "Change": 7.51,
+      "PercentChange": 2.23,
+      "Volume": 126959696
+    },
+    {
+      "Time": "11/03/2020",
+      "Open": 333.69,
+      "High": 338.25,
+      "Low": 330.2935,
+      "Last": 336.03,
+      "Change": 5.83,
+      "PercentChange": 1.77,
+      "Volume": 93294096
+    },
+    {
+      "Time": "11/02/2020",
+      "Open": 330.2,
+      "High": 332.36,
+      "Low": 327.24,
+      "Last": 330.2,
+      "Change": 3.66,
+      "PercentChange": 1.12,
+      "Volume": 86068304
+    },
+    {
+      "Time": "10/30/2020",
+      "Open": 328.28,
+      "High": 329.69,
+      "Low": 322.6,
+      "Last": 326.54,
+      "Change": -3.44,
+      "PercentChange": -1.04,
+      "Volume": 120448600
+    },
+    {
+      "Time": "10/29/2020",
+      "Open": 326.91,
+      "High": 333.395,
+      "Low": 325.09,
+      "Last": 329.98,
+      "Change": 3.32,
+      "PercentChange": 1.02,
+      "Volume": 90597600
+    },
+    {
+      "Time": "10/28/2020",
+      "Open": 332.1,
+      "High": 338.2483,
+      "Low": 326.13,
+      "Last": 326.66,
+      "Change": -11.56,
+      "PercentChange": -3.42,
+      "Volume": 127094304
+    },
+    {
+      "Time": "10/27/2020",
+      "Open": 339.76,
+      "High": 340.12,
+      "Low": 337.99,
+      "Last": 338.22,
+      "Change": -1.17,
+      "PercentChange": -0.34,
+      "Volume": 65994100
+    },
+    {
+      "Time": "10/26/2020",
+      "Open": 342.13,
+      "High": 342.98,
+      "Low": 335.62,
+      "Last": 339.39,
+      "Change": -6.39,
+      "PercentChange": -1.85,
+      "Volume": 91473000
+    },
+    {
+      "Time": "10/23/2020",
+      "Open": 345.93,
+      "High": 345.99,
+      "Low": 343.13,
+      "Last": 345.78,
+      "Change": 1.17,
+      "PercentChange": 0.34,
+      "Volume": 49143900
+    },
+    {
+      "Time": "10/22/2020",
+      "Open": 342.96,
+      "High": 345.24,
+      "Low": 340.65,
+      "Last": 344.61,
+      "Change": 1.88,
+      "PercentChange": 0.55,
+      "Volume": 55399200
+    },
+    {
+      "Time": "10/21/2020",
+      "Open": 343.33,
+      "High": 348.6847,
+      "Low": 342.4,
+      "Last": 342.73,
+      "Change": -0.65,
+      "PercentChange": -0.19,
+      "Volume": 63574900
+    },
+    {
+      "Time": "10/20/2020",
+      "Open": 343.46,
+      "High": 346.88,
+      "Low": 342.64,
+      "Last": 343.38,
+      "Change": 1.37,
+      "PercentChange": 0.40,
+      "Volume": 60051800
+    },
+    {
+      "Time": "10/19/2020",
+      "Open": 348.65,
+      "High": 349.33,
+      "Low": 341.04,
+      "Last": 342.01,
+      "Change": -5.28,
+      "PercentChange": -1.52,
+      "Volume": 68425600
+    },
+    {
+      "Time": "10/16/2020",
+      "Open": 348.96,
+      "High": 350.75,
+      "Low": 347.1,
+      "Last": 347.29,
+      "Change": -0.21,
+      "PercentChange": -0.06,
+      "Volume": 89501800
+    },
+    {
+      "Time": "10/15/2020",
+      "Open": 343.71,
+      "High": 348.02,
+      "Low": 343.13,
+      "Last": 347.5,
+      "Change": -0.43,
+      "PercentChange": -0.12,
+      "Volume": 60357600
+    },
+    {
+      "Time": "10/14/2020",
+      "Open": 350.75,
+      "High": 351.93,
+      "Low": 347.14,
+      "Last": 347.93,
+      "Change": -2.2,
+      "PercentChange": -0.63,
+      "Volume": 57958700
+    },
+    {
+      "Time": "10/13/2020",
+      "Open": 352.28,
+      "High": 352.4651,
+      "Low": 349.09,
+      "Last": 350.13,
+      "Change": -2.3,
+      "PercentChange": -0.65,
+      "Volume": 73255504
+    },
+    {
+      "Time": "10/12/2020",
+      "Open": 349.59,
+      "High": 354.02,
+      "Low": 349.06,
+      "Last": 352.43,
+      "Change": 5.58,
+      "PercentChange": 1.61,
+      "Volume": 80388496
+    },
+    {
+      "Time": "10/09/2020",
+      "Open": 345.56,
+      "High": 347.35,
+      "Low": 344.89,
+      "Last": 346.85,
+      "Change": 3.07,
+      "PercentChange": 0.89,
+      "Volume": 59528600
+    },
+    {
+      "Time": "10/08/2020",
+      "Open": 342.85,
+      "High": 343.85,
+      "Low": 341.86,
+      "Last": 343.78,
+      "Change": 3.02,
+      "PercentChange": 0.89,
+      "Volume": 45242400
+    },
+    {
+      "Time": "10/07/2020",
+      "Open": 338.12,
+      "High": 341.63,
+      "Low": 338.09,
+      "Last": 340.76,
+      "Change": 5.83,
+      "PercentChange": 1.74,
+      "Volume": 56999500
+    },
+    {
+      "Time": "10/06/2020",
+      "Open": 339.91,
+      "High": 342.17,
+      "Low": 334.38,
+      "Last": 334.93,
+      "Change": -4.83,
+      "PercentChange": -1.42,
+      "Volume": 90128800
+    },
+    {
+      "Time": "10/05/2020",
+      "Open": 336.06,
+      "High": 339.96,
+      "Low": 336.01,
+      "Last": 339.76,
+      "Change": 5.92,
+      "PercentChange": 1.77,
+      "Volume": 45713100
+    },
+    {
+      "Time": "10/02/2020",
+      "Open": 331.7,
+      "High": 337.0126,
+      "Low": 331.19,
+      "Last": 333.84,
+      "Change": -3.2,
+      "PercentChange": -0.95,
+      "Volume": 89431104
+    },
+    {
+      "Time": "10/01/2020",
+      "Open": 337.69,
+      "High": 338.74,
+      "Low": 335.01,
+      "Last": 337.04,
+      "Change": 2.15,
+      "PercentChange": 0.64,
+      "Volume": 88698704
+    },
+    {
+      "Time": "09/30/2020",
+      "Open": 333.09,
+      "High": 338.29,
+      "Low": 332.88,
+      "Last": 334.89,
+      "Change": 2.52,
+      "PercentChange": 0.76,
+      "Volume": 104081104
+    },
+    {
+      "Time": "09/29/2020",
+      "Open": 333.97,
+      "High": 334.77,
+      "Low": 331.6209,
+      "Last": 332.37,
+      "Change": -1.82,
+      "PercentChange": -0.54,
+      "Volume": 51531500
+    },
+    {
+      "Time": "09/28/2020",
+      "Open": 333.22,
+      "High": 334.96,
+      "Low": 332.15,
+      "Last": 334.19,
+      "Change": 5.46,
+      "PercentChange": 1.66,
+      "Volume": 64584600
+    },
+    {
+      "Time": "09/25/2020",
+      "Open": 322.58,
+      "High": 329.58,
+      "Low": 321.64,
+      "Last": 328.73,
+      "Change": 5.23,
+      "PercentChange": 1.62,
+      "Volume": 71069400
+    },
+    {
+      "Time": "09/24/2020",
+      "Open": 321.22,
+      "High": 326.797,
+      "Low": 319.8,
+      "Last": 323.5,
+      "Change": 0.86,
+      "PercentChange": 0.27,
+      "Volume": 76681296
+    },
+    {
+      "Time": "09/23/2020",
+      "Open": 330.9,
+      "High": 331.2,
+      "Low": 322.1,
+      "Last": 322.64,
+      "Change": -7.66,
+      "PercentChange": -2.32,
+      "Volume": 93112200
+    },
+    {
+      "Time": "09/22/2020",
+      "Open": 328.57,
+      "High": 330.9,
+      "Low": 325.86,
+      "Last": 330.3,
+      "Change": 3.33,
+      "PercentChange": 1.02,
+      "Volume": 63612100
+    },
+    {
+      "Time": "09/21/2020",
+      "Open": 325.7,
+      "High": 327.13,
+      "Low": 321.73,
+      "Last": 326.97,
+      "Change": -3.68,
+      "PercentChange": -1.11,
+      "Volume": 99450800
+    },
+    {
+      "Time": "09/18/2020",
+      "Open": 335.37,
+      "High": 335.49,
+      "Low": 327.97,
+      "Last": 330.65,
+      "Change": -5.19,
+      "PercentChange": -1.55,
+      "Volume": 105877904
+    },
+    {
+      "Time": "09/17/2020",
+      "Open": 333.56,
+      "High": 337.6996,
+      "Low": 332.991,
+      "Last": 335.84,
+      "Change": -2.98,
+      "PercentChange": -0.88,
+      "Volume": 91523296
+    },
+    {
+      "Time": "09/16/2020",
+      "Open": 341.51,
+      "High": 343.06,
+      "Low": 338.52,
+      "Last": 338.82,
+      "Change": -1.35,
+      "PercentChange": -0.40,
+      "Volume": 82211200
+    },
+    {
+      "Time": "09/15/2020",
+      "Open": 341.12,
+      "High": 342.02,
+      "Low": 338.4683,
+      "Last": 340.17,
+      "Change": 1.71,
+      "PercentChange": 0.51,
+      "Volume": 52920800
+    },
+    {
+      "Time": "09/14/2020",
+      "Open": 337.49,
+      "High": 340.38,
+      "Low": 334.2208,
+      "Last": 338.46,
+      "Change": 4.4,
+      "PercentChange": 1.32,
+      "Volume": 65605600
+    },
+    {
+      "Time": "09/11/2020",
+      "Open": 335.82,
+      "High": 336.97,
+      "Low": 331,
+      "Last": 334.06,
+      "Change": 0.17,
+      "PercentChange": 0.05,
+      "Volume": 84680096
+    },
+    {
+      "Time": "09/10/2020",
+      "Open": 341.82,
+      "High": 342.53,
+      "Low": 332.85,
+      "Last": 333.89,
+      "Change": -5.9,
+      "PercentChange": -1.74,
+      "Volume": 90569504
+    },
+    {
+      "Time": "09/09/2020",
+      "Open": 337.55,
+      "High": 342.46,
+      "Low": 336.61,
+      "Last": 339.79,
+      "Change": 6.58,
+      "PercentChange": 1.97,
+      "Volume": 91462200
+    },
+    {
+      "Time": "09/08/2020",
+      "Open": 336.71,
+      "High": 342.64,
+      "Low": 332.88,
+      "Last": 333.21,
+      "Change": -9.36,
+      "PercentChange": -2.73,
+      "Volume": 114465296
+    },
+    {
+      "Time": "09/04/2020",
+      "Open": 346.13,
+      "High": 347.83,
+      "Low": 334.87,
+      "Last": 342.57,
+      "Change": -2.82,
+      "PercentChange": -0.82,
+      "Volume": 139156192
+    },
+    {
+      "Time": "09/03/2020",
+      "Open": 355.87,
+      "High": 356.38,
+      "Low": 342.59,
+      "Last": 345.39,
+      "Change": -12.31,
+      "PercentChange": -3.44,
+      "Volume": 148011104
+    },
+    {
+      "Time": "09/02/2020",
+      "Open": 354.67,
+      "High": 358.75,
+      "Low": 353.43,
+      "Last": 357.7,
+      "Change": 5.1,
+      "PercentChange": 1.45,
+      "Volume": 69540000
+    },
+    {
+      "Time": "09/01/2020",
+      "Open": 350.21,
+      "High": 352.71,
+      "Low": 349.24,
+      "Last": 352.6,
+      "Change": 3.29,
+      "PercentChange": 0.94,
+      "Volume": 54999300
+    },
+    {
+      "Time": "08/31/2020",
+      "Open": 350.35,
+      "High": 351.3,
+      "Low": 349.06,
+      "Last": 349.31,
+      "Change": -1.27,
+      "PercentChange": -0.36,
+      "Volume": 66099100
+    },
+    {
+      "Time": "08/28/2020",
+      "Open": 349.44,
+      "High": 350.72,
+      "Low": 348.15,
+      "Last": 350.58,
+      "Change": 2.25,
+      "PercentChange": 0.65,
+      "Volume": 48588900
+    },
+    {
+      "Time": "08/27/2020",
+      "Open": 348.51,
+      "High": 349.9,
+      "Low": 346.53,
+      "Last": 348.33,
+      "Change": 0.76,
+      "PercentChange": 0.22,
+      "Volume": 58034100
+    },
+    {
+      "Time": "08/26/2020",
+      "Open": 344.76,
+      "High": 347.86,
+      "Low": 344.17,
+      "Last": 347.57,
+      "Change": 3.45,
+      "PercentChange": 1.00,
+      "Volume": 50790200
+    },
+    {
+      "Time": "08/25/2020",
+      "Open": 343.53,
+      "High": 344.21,
+      "Low": 342.27,
+      "Last": 344.12,
+      "Change": 1.2,
+      "PercentChange": 0.35,
+      "Volume": 38463300
+    },
+    {
+      "Time": "08/24/2020",
+      "Open": 342.12,
+      "High": 343,
+      "Low": 339.4504,
+      "Last": 342.92,
+      "Change": 3.44,
+      "PercentChange": 1.01,
+      "Volume": 48588600
+    },
+    {
+      "Time": "08/21/2020",
+      "Open": 337.55,
+      "High": 339.72,
+      "Low": 337.55,
+      "Last": 339.48,
+      "Change": 1.2,
+      "PercentChange": 0.35,
+      "Volume": 55106600
+    },
+    {
+      "Time": "08/20/2020",
+      "Open": 335.36,
+      "High": 338.8,
+      "Low": 335.22,
+      "Last": 338.28,
+      "Change": 1.05,
+      "PercentChange": 0.31,
+      "Volume": 42207800
+    },
+    {
+      "Time": "08/19/2020",
+      "Open": 339.05,
+      "High": 339.61,
+      "Low": 336.62,
+      "Last": 337.23,
+      "Change": -1.41,
+      "PercentChange": -0.42,
+      "Volume": 68054200
+    },
+    {
+      "Time": "08/18/2020",
+      "Open": 338.34,
+      "High": 339.1,
+      "Low": 336.61,
+      "Last": 338.64,
+      "Change": 0.73,
+      "PercentChange": 0.22,
+      "Volume": 38733900
+    },
+    {
+      "Time": "08/17/2020",
+      "Open": 337.94,
+      "High": 338.34,
+      "Low": 336.8517,
+      "Last": 337.91,
+      "Change": 1.07,
+      "PercentChange": 0.32,
+      "Volume": 35480900
+    },
+    {
+      "Time": "08/14/2020",
+      "Open": 336.41,
+      "High": 337.42,
+      "Low": 335.62,
+      "Last": 336.84,
+      "Change": 0.01,
+      "PercentChange": 0.00,
+      "Volume": 47260300
+    },
+    {
+      "Time": "08/13/2020",
+      "Open": 336.61,
+      "High": 338.2514,
+      "Low": 335.83,
+      "Last": 336.83,
+      "Change": -0.61,
+      "PercentChange": -0.18,
+      "Volume": 41816100
+    },
+    {
+      "Time": "08/12/2020",
+      "Open": 335.44,
+      "High": 338.28,
+      "Low": 332.8377,
+      "Last": 337.44,
+      "Change": 4.64,
+      "PercentChange": 1.39,
+      "Volume": 53826100
+    },
+    {
+      "Time": "08/11/2020",
+      "Open": 336.85,
+      "High": 337.54,
+      "Low": 332.01,
+      "Last": 332.8,
+      "Change": -2.77,
+      "PercentChange": -0.83,
+      "Volume": 69601000
+    },
+    {
+      "Time": "08/10/2020",
+      "Open": 335.06,
+      "High": 335.77,
+      "Low": 332.955,
+      "Last": 335.57,
+      "Change": 1,
+      "PercentChange": 0.30,
+      "Volume": 44282000
+    },
+    {
+      "Time": "08/07/2020",
+      "Open": 333.28,
+      "High": 334.88,
+      "Low": 332.3,
+      "Last": 334.57,
+      "Change": 0.24,
+      "PercentChange": 0.07,
+      "Volume": 57308200
+    },
+    {
+      "Time": "08/06/2020",
+      "Open": 331.48,
+      "High": 334.46,
+      "Low": 331.13,
+      "Last": 334.33,
+      "Change": 2.22,
+      "PercentChange": 0.67,
+      "Volume": 43679400
+    },
+    {
+      "Time": "08/05/2020",
+      "Open": 331.47,
+      "High": 332.39,
+      "Low": 331.18,
+      "Last": 332.11,
+      "Change": 2.05,
+      "PercentChange": 0.62,
+      "Volume": 42866300
+    },
+    {
+      "Time": "08/04/2020",
+      "Open": 327.86,
+      "High": 330.06,
+      "Low": 327.86,
+      "Last": 330.06,
+      "Change": 1.27,
+      "PercentChange": 0.39,
+      "Volume": 41917800
+    },
+    {
+      "Time": "08/03/2020",
+      "Open": 328.32,
+      "High": 329.62,
+      "Low": 327.73,
+      "Last": 328.79,
+      "Change": 2.27,
+      "PercentChange": 0.70,
+      "Volume": 53077900
+    },
+    {
+      "Time": "07/31/2020",
+      "Open": 325.86,
+      "High": 326.63,
+      "Low": 321.33,
+      "Last": 326.52,
+      "Change": 2.56,
+      "PercentChange": 0.79,
+      "Volume": 85210704
+    },
+    {
+      "Time": "07/30/2020",
+      "Open": 321.9,
+      "High": 324.41,
+      "Low": 319.64,
+      "Last": 323.96,
+      "Change": -1.16,
+      "PercentChange": -0.36,
+      "Volume": 61861700
+    },
+    {
+      "Time": "07/29/2020",
+      "Open": 322.12,
+      "High": 325.73,
+      "Low": 322.075,
+      "Last": 325.12,
+      "Change": 3.95,
+      "PercentChange": 1.23,
+      "Volume": 48454100
+    },
+    {
+      "Time": "07/28/2020",
+      "Open": 322.43,
+      "High": 323.64,
+      "Low": 320.85,
+      "Last": 321.17,
+      "Change": -2.05,
+      "PercentChange": -0.63,
+      "Volume": 57494900
+    },
+    {
+      "Time": "07/27/2020",
+      "Open": 321.63,
+      "High": 323.41,
+      "Low": 320.775,
+      "Last": 323.22,
+      "Change": 2.34,
+      "PercentChange": 0.73,
+      "Volume": 48292900
+    },
+    {
+      "Time": "07/24/2020",
+      "Open": 320.95,
+      "High": 321.99,
+      "Low": 319.246,
+      "Last": 320.88,
+      "Change": -2.08,
+      "PercentChange": -0.64,
+      "Volume": 73766496
+    },
+    {
+      "Time": "07/23/2020",
+      "Open": 326.47,
+      "High": 327.23,
+      "Low": 321.48,
+      "Last": 322.96,
+      "Change": -3.9,
+      "PercentChange": -1.19,
+      "Volume": 75737904
+    },
+    {
+      "Time": "07/22/2020",
+      "Open": 324.62,
+      "High": 327.2,
+      "Low": 324.5,
+      "Last": 326.86,
+      "Change": 1.85,
+      "PercentChange": 0.57,
+      "Volume": 57792900
+    },
+    {
+      "Time": "07/21/2020",
+      "Open": 326.45,
+      "High": 326.93,
+      "Low": 323.94,
+      "Last": 325.01,
+      "Change": 0.69,
+      "PercentChange": 0.21,
+      "Volume": 57498900
+    },
+    {
+      "Time": "07/20/2020",
+      "Open": 321.43,
+      "High": 325.13,
+      "Low": 320.62,
+      "Last": 324.32,
+      "Change": 2.6,
+      "PercentChange": 0.81,
+      "Volume": 56308800
+    },
+    {
+      "Time": "07/17/2020",
+      "Open": 321.88,
+      "High": 322.57,
+      "Low": 319.735,
+      "Last": 321.72,
+      "Change": 0.93,
+      "PercentChange": 0.29,
+      "Volume": 62774900
+    },
+    {
+      "Time": "07/16/2020",
+      "Open": 319.79,
+      "High": 321.28,
+      "Low": 319.09,
+      "Last": 320.79,
+      "Change": -1.06,
+      "PercentChange": -0.33,
+      "Volume": 54622500
+    },
+    {
+      "Time": "07/15/2020",
+      "Open": 322.41,
+      "High": 323.04,
+      "Low": 319.265,
+      "Last": 321.85,
+      "Change": 2.93,
+      "PercentChange": 0.92,
+      "Volume": 87196496
+    },
+    {
+      "Time": "07/14/2020",
+      "Open": 313.3,
+      "High": 319.76,
+      "Low": 312,
+      "Last": 318.92,
+      "Change": 4.08,
+      "PercentChange": 1.30,
+      "Volume": 93656896
+    },
+    {
+      "Time": "07/13/2020",
+      "Open": 320.13,
+      "High": 322.71,
+      "Low": 314.13,
+      "Last": 314.84,
+      "Change": -2.75,
+      "PercentChange": -0.87,
+      "Volume": 102997400
+    },
+    {
+      "Time": "07/10/2020",
+      "Open": 314.31,
+      "High": 317.88,
+      "Low": 312.76,
+      "Last": 317.59,
+      "Change": 3.21,
+      "PercentChange": 1.02,
+      "Volume": 57550300
+    },
+    {
+      "Time": "07/09/2020",
+      "Open": 316.84,
+      "High": 317.1,
+      "Low": 310.68,
+      "Last": 314.38,
+      "Change": -1.8,
+      "PercentChange": -0.57,
+      "Volume": 83354096
+    },
+    {
+      "Time": "07/08/2020",
+      "Open": 314.61,
+      "High": 316.3,
+      "Low": 312.7,
+      "Last": 316.18,
+      "Change": 2.4,
+      "PercentChange": 0.76,
+      "Volume": 54638500
+    },
+    {
+      "Time": "07/07/2020",
+      "Open": 315.38,
+      "High": 317.52,
+      "Low": 313.37,
+      "Last": 313.78,
+      "Change": -3.27,
+      "PercentChange": -1.03,
+      "Volume": 82909904
+    },
+    {
+      "Time": "07/06/2020",
+      "Open": 316.37,
+      "High": 317.68,
+      "Low": 315.56,
+      "Last": 317.05,
+      "Change": 4.82,
+      "PercentChange": 1.54,
+      "Volume": 61713800
+    },
+    {
+      "Time": "07/02/2020",
+      "Open": 314.24,
+      "High": 315.7,
+      "Low": 311.51,
+      "Last": 312.23,
+      "Change": 1.71,
+      "PercentChange": 0.55,
+      "Volume": 69344200
+    },
+    {
+      "Time": "07/01/2020",
+      "Open": 309.57,
+      "High": 311.89,
+      "Low": 309.07,
+      "Last": 310.52,
+      "Change": 2.16,
+      "PercentChange": 0.70,
+      "Volume": 72396496
+    },
+    {
+      "Time": "06/30/2020",
+      "Open": 303.99,
+      "High": 310.2,
+      "Low": 303.82,
+      "Last": 308.36,
+      "Change": 3.9,
+      "PercentChange": 1.28,
+      "Volume": 113394704
+    },
+    {
+      "Time": "06/29/2020",
+      "Open": 301.41,
+      "High": 304.61,
+      "Low": 298.93,
+      "Last": 304.46,
+      "Change": 4.41,
+      "PercentChange": 1.47,
+      "Volume": 79773200
+    },
+    {
+      "Time": "06/26/2020",
+      "Open": 306.16,
+      "High": 306.39,
+      "Low": 299.42,
+      "Last": 300.05,
+      "Change": -7.3,
+      "PercentChange": -2.38,
+      "Volume": 127961000
+    },
+    {
+      "Time": "06/25/2020",
+      "Open": 303.47,
+      "High": 307.64,
+      "Low": 301.28,
+      "Last": 307.35,
+      "Change": 3.26,
+      "PercentChange": 1.07,
+      "Volume": 89467904
+    },
+    {
+      "Time": "06/24/2020",
+      "Open": 309.84,
+      "High": 310.51,
+      "Low": 302.1,
+      "Last": 304.09,
+      "Change": -7.96,
+      "PercentChange": -2.55,
+      "Volume": 132813504
+    },
+    {
+      "Time": "06/23/2020",
+      "Open": 313.49,
+      "High": 314.5,
+      "Low": 311.6101,
+      "Last": 312.05,
+      "Change": 1.43,
+      "PercentChange": 0.46,
+      "Volume": 68471200
+    },
+    {
+      "Time": "06/22/2020",
+      "Open": 307.99,
+      "High": 311.05,
+      "Low": 306.75,
+      "Last": 310.62,
+      "Change": 1.98,
+      "PercentChange": 0.64,
+      "Volume": 74649296
+    },
+    {
+      "Time": "06/19/2020",
+      "Open": 314.17,
+      "High": 314.38,
+      "Low": 306.53,
+      "Last": 308.64,
+      "Change": -3.14,
+      "PercentChange": -1.01,
+      "Volume": 135549600
+    },
+    {
+      "Time": "06/18/2020",
+      "Open": 310.01,
+      "High": 312.3,
+      "Low": 309.51,
+      "Last": 311.78,
+      "Change": 0.12,
+      "PercentChange": 0.04,
+      "Volume": 80828600
+    },
+    {
+      "Time": "06/17/2020",
+      "Open": 314.07,
+      "High": 314.39,
+      "Low": 310.86,
+      "Last": 311.66,
+      "Change": -1.3,
+      "PercentChange": -0.42,
+      "Volume": 83398896
+    },
+    {
+      "Time": "06/16/2020",
+      "Open": 315.48,
+      "High": 315.64,
+      "Low": 307.67,
+      "Last": 312.96,
+      "Change": 5.91,
+      "PercentChange": 1.92,
+      "Volume": 137627504
+    },
+    {
+      "Time": "06/15/2020",
+      "Open": 298.02,
+      "High": 308.28,
+      "Low": 296.74,
+      "Last": 307.05,
+      "Change": 2.84,
+      "PercentChange": 0.93,
+      "Volume": 135782704
+    },
+    {
+      "Time": "06/12/2020",
+      "Open": 308.24,
+      "High": 309.08,
+      "Low": 298.6,
+      "Last": 304.21,
+      "Change": 3.6,
+      "PercentChange": 1.20,
+      "Volume": 194678800
+    },
+    {
+      "Time": "06/11/2020",
+      "Open": 311.46,
+      "High": 312.15,
+      "Low": 300.01,
+      "Last": 300.61,
+      "Change": -18.39,
+      "PercentChange": -5.76,
+      "Volume": 209243504
+    },
+    {
+      "Time": "06/10/2020",
+      "Open": 321.42,
+      "High": 322.39,
+      "Low": 318.2209,
+      "Last": 319,
+      "Change": -1.79,
+      "PercentChange": -0.56,
+      "Volume": 95000704
+    },
+    {
+      "Time": "06/09/2020",
+      "Open": 320.3,
+      "High": 323.2849,
+      "Low": 319.36,
+      "Last": 320.79,
+      "Change": -2.41,
+      "PercentChange": -0.75,
+      "Volume": 77479200
+    },
+    {
+      "Time": "06/08/2020",
+      "Open": 320.3,
+      "High": 323.41,
+      "Low": 319.63,
+      "Last": 323.2,
+      "Change": 3.86,
+      "PercentChange": 1.21,
+      "Volume": 73641200
+    },
+    {
+      "Time": "06/05/2020",
+      "Open": 317.23,
+      "High": 321.275,
+      "Low": 317.16,
+      "Last": 319.34,
+      "Change": 7.98,
+      "PercentChange": 2.56,
+      "Volume": 150524608
+    },
+    {
+      "Time": "06/04/2020",
+      "Open": 311.11,
+      "High": 313,
+      "Low": 309.08,
+      "Last": 311.36,
+      "Change": -0.82,
+      "PercentChange": -0.26,
+      "Volume": 75794304
+    },
+    {
+      "Time": "06/03/2020",
+      "Open": 310.24,
+      "High": 313.22,
+      "Low": 309.94,
+      "Last": 312.18,
+      "Change": 4.1,
+      "PercentChange": 1.33,
+      "Volume": 92567504
+    },
+    {
+      "Time": "06/02/2020",
+      "Open": 306.55,
+      "High": 308.13,
+      "Low": 305.1,
+      "Last": 308.08,
+      "Change": 2.53,
+      "PercentChange": 0.83,
+      "Volume": 74267104
+    },
+    {
+      "Time": "06/01/2020",
+      "Open": 303.62,
+      "High": 306.205,
+      "Low": 303.06,
+      "Last": 305.55,
+      "Change": 1.23,
+      "PercentChange": 0.40,
+      "Volume": 56779800
+    },
+    {
+      "Time": "05/29/2020",
+      "Open": 302.46,
+      "High": 304.96,
+      "Low": 299.47,
+      "Last": 304.32,
+      "Change": 1.35,
+      "PercentChange": 0.45,
+      "Volume": 119265696
+    },
+    {
+      "Time": "05/28/2020",
+      "Open": 304.65,
+      "High": 306.84,
+      "Low": 302.24,
+      "Last": 302.97,
+      "Change": -0.56,
+      "PercentChange": -0.18,
+      "Volume": 90767800
+    },
+    {
+      "Time": "05/27/2020",
+      "Open": 302.12,
+      "High": 303.57,
+      "Low": 296.87,
+      "Last": 303.53,
+      "Change": 4.45,
+      "PercentChange": 1.49,
+      "Volume": 104817400
+    },
+    {
+      "Time": "05/26/2020",
+      "Open": 301.93,
+      "High": 302.19,
+      "Low": 295.4646,
+      "Last": 299.08,
+      "Change": 3.64,
+      "PercentChange": 1.23,
+      "Volume": 88951400
+    },
+    {
+      "Time": "05/22/2020",
+      "Open": 294.57,
+      "High": 295.63,
+      "Low": 293.22,
+      "Last": 295.44,
+      "Change": 0.56,
+      "PercentChange": 0.19,
+      "Volume": 63958200
+    },
+    {
+      "Time": "05/21/2020",
+      "Open": 296.79,
+      "High": 297.67,
+      "Low": 293.6886,
+      "Last": 294.88,
+      "Change": -2.05,
+      "PercentChange": -0.69,
+      "Volume": 78293904
+    },
+    {
+      "Time": "05/20/2020",
+      "Open": 295.82,
+      "High": 297.87,
+      "Low": 295.57,
+      "Last": 296.93,
+      "Change": 4.96,
+      "PercentChange": 1.70,
+      "Volume": 85861600
+    },
+    {
+      "Time": "05/19/2020",
+      "Open": 294.35,
+      "High": 296.205,
+      "Low": 291.95,
+      "Last": 291.97,
+      "Change": -3.03,
+      "PercentChange": -1.03,
+      "Volume": 95189296
+    },
+    {
+      "Time": "05/18/2020",
+      "Open": 293.05,
+      "High": 296.75,
+      "Low": 292.7,
+      "Last": 295,
+      "Change": 8.72,
+      "PercentChange": 3.05,
+      "Volume": 120320200
+    },
+    {
+      "Time": "05/15/2020",
+      "Open": 282.37,
+      "High": 286.33,
+      "Low": 281.34,
+      "Last": 286.28,
+      "Change": 1.31,
+      "PercentChange": 0.46,
+      "Volume": 111146200
+    },
+    {
+      "Time": "05/14/2020",
+      "Open": 278.95,
+      "High": 285.11,
+      "Low": 272.99,
+      "Last": 284.97,
+      "Change": 3.37,
+      "PercentChange": 1.20,
+      "Volume": 121977800
+    },
+    {
+      "Time": "05/13/2020",
+      "Open": 286.06,
+      "High": 287.19,
+      "Low": 278.965,
+      "Last": 281.6,
+      "Change": -5.07,
+      "PercentChange": -1.77,
+      "Volume": 144721104
+    },
+    {
+      "Time": "05/12/2020",
+      "Open": 293.79,
+      "High": 294.24,
+      "Low": 286.52,
+      "Last": 286.67,
+      "Change": -5.83,
+      "PercentChange": -1.99,
+      "Volume": 95870704
+    },
+    {
+      "Time": "05/11/2020",
+      "Open": 290.34,
+      "High": 294,
+      "Low": 289.88,
+      "Last": 292.5,
+      "Change": 0.06,
+      "PercentChange": 0.02,
+      "Volume": 79514200
+    },
+    {
+      "Time": "05/08/2020",
+      "Open": 291.09,
+      "High": 292.95,
+      "Low": 289.86,
+      "Last": 292.44,
+      "Change": 4.76,
+      "PercentChange": 1.65,
+      "Volume": 76622096
+    },
+    {
+      "Time": "05/07/2020",
+      "Open": 287.75,
+      "High": 289.78,
+      "Low": 287.13,
+      "Last": 287.68,
+      "Change": 3.43,
+      "PercentChange": 1.21,
+      "Volume": 75250400
+    },
+    {
+      "Time": "05/06/2020",
+      "Open": 287.01,
+      "High": 288.46,
+      "Low": 283.78,
+      "Last": 284.25,
+      "Change": -1.94,
+      "PercentChange": -0.68,
+      "Volume": 73632600
+    },
+    {
+      "Time": "05/05/2020",
+      "Open": 286.64,
+      "High": 289.25,
+      "Low": 283.7134,
+      "Last": 286.19,
+      "Change": 2.62,
+      "PercentChange": 0.92,
+      "Volume": 79569904
+    },
+    {
+      "Time": "05/04/2020",
+      "Open": 280.74,
+      "High": 283.9,
+      "Low": 279.13,
+      "Last": 283.57,
+      "Change": 0.78,
+      "PercentChange": 0.28,
+      "Volume": 80873200
+    },
+    {
+      "Time": "05/01/2020",
+      "Open": 285.31,
+      "High": 290.6572,
+      "Low": 281.52,
+      "Last": 282.79,
+      "Change": -7.69,
+      "PercentChange": -2.65,
+      "Volume": 125180000
+    },
+    {
+      "Time": "04/30/2020",
+      "Open": 291.71,
+      "High": 293.3239,
+      "Low": 288.59,
+      "Last": 290.48,
+      "Change": -2.73,
+      "PercentChange": -0.93,
+      "Volume": 122901696
+    },
+    {
+      "Time": "04/29/2020",
+      "Open": 291.53,
+      "High": 294.88,
+      "Low": 290.41,
+      "Last": 293.21,
+      "Change": 7.48,
+      "PercentChange": 2.62,
+      "Volume": 118745504
+    },
+    {
+      "Time": "04/28/2020",
+      "Open": 291.02,
+      "High": 291.4,
+      "Low": 285.4,
+      "Last": 285.73,
+      "Change": -1.32,
+      "PercentChange": -0.46,
+      "Volume": 105269904
+    },
+    {
+      "Time": "04/27/2020",
+      "Open": 285.12,
+      "High": 288.27,
+      "Low": 284.62,
+      "Last": 287.05,
+      "Change": 4.08,
+      "PercentChange": 1.44,
+      "Volume": 77896600
+    },
+    {
+      "Time": "04/24/2020",
+      "Open": 280.73,
+      "High": 283.7,
+      "Low": 278.5,
+      "Last": 282.97,
+      "Change": 3.89,
+      "PercentChange": 1.39,
+      "Volume": 85165904
+    },
+    {
+      "Time": "04/23/2020",
+      "Open": 280.49,
+      "High": 283.94,
+      "Low": 278.75,
+      "Last": 279.08,
+      "Change": -0.02,
+      "PercentChange": -0.01,
+      "Volume": 104709696
+    },
+    {
+      "Time": "04/22/2020",
+      "Open": 278.35,
+      "High": 281,
+      "Low": 276.91,
+      "Last": 279.1,
+      "Change": 6.06,
+      "PercentChange": 2.22,
+      "Volume": 93524496
+    },
+    {
+      "Time": "04/21/2020",
+      "Open": 276.73,
+      "High": 278.04,
+      "Low": 272.02,
+      "Last": 273.04,
+      "Change": -8.55,
+      "PercentChange": -3.04,
+      "Volume": 126385600
+    },
+    {
+      "Time": "04/20/2020",
+      "Open": 282.61,
+      "High": 286.7912,
+      "Low": 281.35,
+      "Last": 281.59,
+      "Change": -5.05,
+      "PercentChange": -1.76,
+      "Volume": 100109200
+    },
+    {
+      "Time": "04/17/2020",
+      "Open": 285.38,
+      "High": 287.3,
+      "Low": 282.4,
+      "Last": 286.64,
+      "Change": 7.54,
+      "PercentChange": 2.70,
+      "Volume": 146684704
+    },
+    {
+      "Time": "04/16/2020",
+      "Open": 279.15,
+      "High": 280.03,
+      "Low": 275.76,
+      "Last": 279.1,
+      "Change": 1.34,
+      "PercentChange": 0.48,
+      "Volume": 131798304
+    },
+    {
+      "Time": "04/15/2020",
+      "Open": 277.57,
+      "High": 283.9407,
+      "Low": 275.46,
+      "Last": 277.76,
+      "Change": -6.03,
+      "PercentChange": -2.12,
+      "Volume": 121775000
+    },
+    {
+      "Time": "04/14/2020",
+      "Open": 280.98,
+      "High": 284.9,
+      "Low": 275.5106,
+      "Last": 283.79,
+      "Change": 8.13,
+      "PercentChange": 2.95,
+      "Volume": 134143296
+    },
+    {
+      "Time": "04/13/2020",
+      "Open": 277.14,
+      "High": 277.51,
+      "Low": 271.41,
+      "Last": 275.66,
+      "Change": -2.54,
+      "PercentChange": -0.91,
+      "Volume": 114839000
+    },
+    {
+      "Time": "04/09/2020",
+      "Open": 277.58,
+      "High": 281.2,
+      "Low": 275.47,
+      "Last": 278.2,
+      "Change": 4.17,
+      "PercentChange": 1.52,
+      "Volume": 190282704
+    },
+    {
+      "Time": "04/08/2020",
+      "Open": 267.96,
+      "High": 276,
+      "Low": 265.2542,
+      "Last": 274.03,
+      "Change": 8.9,
+      "PercentChange": 3.36,
+      "Volume": 153774400
+    },
+    {
+      "Time": "04/07/2020",
+      "Open": 274.21,
+      "High": 275.03,
+      "Low": 264.89,
+      "Last": 265.13,
+      "Change": 0.27,
+      "PercentChange": 0.10,
+      "Volume": 201427104
+    },
+    {
+      "Time": "04/06/2020",
+      "Open": 257.84,
+      "High": 267,
+      "Low": 248.1698,
+      "Last": 264.86,
+      "Change": 16.67,
+      "PercentChange": 6.72,
+      "Volume": 188061200
+    },
+    {
+      "Time": "04/03/2020",
+      "Open": 250.76,
+      "High": 253.32,
+      "Low": 245.22,
+      "Last": 248.19,
+      "Change": -3.64,
+      "PercentChange": -1.45,
+      "Volume": 135561104
+    },
+    {
+      "Time": "04/02/2020",
+      "Open": 245.19,
+      "High": 252.68,
+      "Low": 244.59,
+      "Last": 251.83,
+      "Change": 5.68,
+      "PercentChange": 2.31,
+      "Volume": 177660400
+    },
+    {
+      "Time": "04/01/2020",
+      "Open": 247.98,
+      "High": 257.6591,
+      "Low": 243.9,
+      "Last": 246.15,
+      "Change": -11.6,
+      "PercentChange": -4.50,
+      "Volume": 189554592
+    },
+    {
+      "Time": "03/31/2020",
+      "Open": 260.56,
+      "High": 263.33,
+      "Low": 256.22,
+      "Last": 257.75,
+      "Change": -3.9,
+      "PercentChange": -1.49,
+      "Volume": 194880992
+    },
+    {
+      "Time": "03/30/2020",
+      "Open": 255.7,
+      "High": 262.43,
+      "Low": 253.53,
+      "Last": 261.65,
+      "Change": 8.23,
+      "PercentChange": 3.25,
+      "Volume": 170961792
+    },
+    {
+      "Time": "03/27/2020",
+      "Open": 253.27,
+      "High": 260.81,
+      "Low": 251.05,
+      "Last": 253.42,
+      "Change": -7.78,
+      "PercentChange": -2.98,
+      "Volume": 224341200
+    },
+    {
+      "Time": "03/26/2020",
+      "Open": 249.05,
+      "High": 262.8,
+      "Low": 249.05,
+      "Last": 261.2,
+      "Change": 14.41,
+      "PercentChange": 5.84,
+      "Volume": 257632800
+    },
+    {
+      "Time": "03/25/2020",
+      "Open": 244.87,
+      "High": 256.35,
+      "Low": 239.75,
+      "Last": 246.79,
+      "Change": 3.64,
+      "PercentChange": 1.50,
+      "Volume": 299430208
+    },
+    {
+      "Time": "03/24/2020",
+      "Open": 234.42,
+      "High": 244.1,
+      "Low": 233.8,
+      "Last": 243.15,
+      "Change": 20.2,
+      "PercentChange": 9.06,
+      "Volume": 235494400
+    },
+    {
+      "Time": "03/23/2020",
+      "Open": 228.78,
+      "High": 229.6833,
+      "Low": 218.26,
+      "Last": 222.95,
+      "Change": -5.85,
+      "PercentChange": -2.56,
+      "Volume": 326025088
+    },
+    {
+      "Time": "03/20/2020",
+      "Open": 242.53,
+      "High": 244.47,
+      "Low": 228.5,
+      "Last": 228.8,
+      "Change": -11.71,
+      "PercentChange": -4.87,
+      "Volume": 347158784
+    },
+    {
+      "Time": "03/19/2020",
+      "Open": 237.76,
+      "High": 247.38,
+      "Low": 232.22,
+      "Last": 240.51,
+      "Change": 0.51,
+      "PercentChange": 0.21,
+      "Volume": 289321984
+    },
+    {
+      "Time": "03/18/2020",
+      "Open": 236.25,
+      "High": 248.37,
+      "Low": 228.02,
+      "Last": 240,
+      "Change": -12.8,
+      "PercentChange": -5.06,
+      "Volume": 327597088
+    },
+    {
+      "Time": "03/17/2020",
+      "Open": 245.04,
+      "High": 256.17,
+      "Low": 237.07,
+      "Last": 252.8,
+      "Change": 12.95,
+      "PercentChange": 5.40,
+      "Volume": 262070400
+    },
+    {
+      "Time": "03/16/2020",
+      "Open": 241.18,
+      "High": 256.9,
+      "Low": 237.36,
+      "Last": 239.85,
+      "Change": -29.47,
+      "PercentChange": -10.94,
+      "Volume": 297240000
+    },
+    {
+      "Time": "03/13/2020",
+      "Open": 263.09,
+      "High": 271.4754,
+      "Low": 248.5237,
+      "Last": 269.32,
+      "Change": 21.21,
+      "PercentChange": 8.55,
+      "Volume": 329566112
+    },
+    {
+      "Time": "03/12/2020",
+      "Open": 256,
+      "High": 266.66,
+      "Low": 247.68,
+      "Last": 248.11,
+      "Change": -26.25,
+      "PercentChange": -9.57,
+      "Volume": 392220608
+    },
+    {
+      "Time": "03/11/2020",
+      "Open": 280.7,
+      "High": 281.94,
+      "Low": 270.88,
+      "Last": 274.36,
+      "Change": -14.06,
+      "PercentChange": -4.87,
+      "Volume": 256416496
+    },
+    {
+      "Time": "03/10/2020",
+      "Open": 284.64,
+      "High": 288.52,
+      "Low": 273.5,
+      "Last": 288.42,
+      "Change": 14.19,
+      "PercentChange": 5.17,
+      "Volume": 276444000
+    },
+    {
+      "Time": "03/09/2020",
+      "Open": 275.3,
+      "High": 284.19,
+      "Low": 273.45,
+      "Last": 274.23,
+      "Change": -23.23,
+      "PercentChange": -7.81,
+      "Volume": 309417312
+    },
+    {
+      "Time": "03/06/2020",
+      "Open": 293.15,
+      "High": 298.78,
+      "Low": 290.23,
+      "Last": 297.46,
+      "Change": -5,
+      "PercentChange": -1.65,
+      "Volume": 228667104
+    },
+    {
+      "Time": "03/05/2020",
+      "Open": 304.98,
+      "High": 308.47,
+      "Low": 300.01,
+      "Last": 302.46,
+      "Change": -10.4,
+      "PercentChange": -3.32,
+      "Volume": 186366800
+    },
+    {
+      "Time": "03/04/2020",
+      "Open": 306.12,
+      "High": 313.1,
+      "Low": 303.33,
+      "Last": 312.86,
+      "Change": 12.62,
+      "PercentChange": 4.20,
+      "Volume": 176613408
+    },
+    {
+      "Time": "03/03/2020",
+      "Open": 309.5,
+      "High": 313.84,
+      "Low": 297.57,
+      "Last": 300.24,
+      "Change": -8.85,
+      "PercentChange": -2.86,
+      "Volume": 300139104
+    },
+    {
+      "Time": "03/02/2020",
+      "Open": 298.21,
+      "High": 309.16,
+      "Low": 294.46,
+      "Last": 309.09,
+      "Change": 12.83,
+      "PercentChange": 4.33,
+      "Volume": 238703600
+    },
+    {
+      "Time": "02/28/2020",
+      "Open": 293.45,
+      "High": 297.892,
+      "Low": 285.54,
+      "Last": 296.26,
+      "Change": -1.25,
+      "PercentChange": -0.42,
+      "Volume": 385764000
+    },
+    {
+      "Time": "02/27/2020",
+      "Open": 305.46,
+      "High": 311.5637,
+      "Low": 297.51,
+      "Last": 297.51,
+      "Change": -13.99,
+      "PercentChange": -4.49,
+      "Volume": 284353408
+    },
+    {
+      "Time": "02/26/2020",
+      "Open": 314.18,
+      "High": 318.11,
+      "Low": 310.7,
+      "Last": 311.5,
+      "Change": -1.15,
+      "PercentChange": -0.37,
+      "Volume": 194762208
+    },
+    {
+      "Time": "02/25/2020",
+      "Open": 324.02,
+      "High": 324.61,
+      "Low": 311.69,
+      "Last": 312.65,
+      "Change": -9.77,
+      "PercentChange": -3.03,
+      "Volume": 218913104
+    },
+    {
+      "Time": "02/24/2020",
+      "Open": 323.14,
+      "High": 333.5623,
+      "Low": 321.24,
+      "Last": 322.42,
+      "Change": -11.06,
+      "PercentChange": -3.32,
+      "Volume": 161088400
+    },
+    {
+      "Time": "02/21/2020",
+      "Open": 335.47,
+      "High": 335.81,
+      "Low": 332.58,
+      "Last": 333.48,
+      "Change": -3.47,
+      "PercentChange": -1.03,
+      "Volume": 113788200
+    },
+    {
+      "Time": "02/20/2020",
+      "Open": 337.74,
+      "High": 338.64,
+      "Low": 333.6817,
+      "Last": 336.95,
+      "Change": -1.39,
+      "PercentChange": -0.41,
+      "Volume": 74163296
+    },
+    {
+      "Time": "02/19/2020",
+      "Open": 337.79,
+      "High": 339.08,
+      "Low": 337.48,
+      "Last": 338.34,
+      "Change": 1.61,
+      "PercentChange": 0.48,
+      "Volume": 48814600
+    },
+    {
+      "Time": "02/18/2020",
+      "Open": 336.51,
+      "High": 337.6677,
+      "Low": 335.21,
+      "Last": 336.73,
+      "Change": -0.87,
+      "PercentChange": -0.26,
+      "Volume": 57342500
+    },
+    {
+      "Time": "02/14/2020",
+      "Open": 337.51,
+      "High": 337.73,
+      "Low": 336.2,
+      "Last": 337.6,
+      "Change": 0.54,
+      "PercentChange": 0.16,
+      "Volume": 64582200
+    },
+    {
+      "Time": "02/13/2020",
+      "Open": 335.86,
+      "High": 338.12,
+      "Low": 335.56,
+      "Last": 337.06,
+      "Change": -0.36,
+      "PercentChange": -0.11,
+      "Volume": 54501900
+    },
+    {
+      "Time": "02/12/2020",
+      "Open": 336.83,
+      "High": 337.65,
+      "Low": 336.43,
+      "Last": 337.42,
+      "Change": 2.16,
+      "PercentChange": 0.64,
+      "Volume": 43992600
+    },
+    {
+      "Time": "02/11/2020",
+      "Open": 336.16,
+      "High": 337.02,
+      "Low": 334.684,
+      "Last": 335.26,
+      "Change": 0.58,
+      "PercentChange": 0.17,
+      "Volume": 54864500
+    },
+    {
+      "Time": "02/10/2020",
+      "Open": 331.23,
+      "High": 334.75,
+      "Low": 331.19,
+      "Last": 334.68,
+      "Change": 2.48,
+      "PercentChange": 0.75,
+      "Volume": 42070000
+    },
+    {
+      "Time": "02/07/2020",
+      "Open": 332.82,
+      "High": 333.9941,
+      "Low": 331.6,
+      "Last": 332.2,
+      "Change": -1.78,
+      "PercentChange": -0.53,
+      "Volume": 64139400
+    },
+    {
+      "Time": "02/06/2020",
+      "Open": 333.91,
+      "High": 334.19,
+      "Low": 332.8,
+      "Last": 333.98,
+      "Change": 1.12,
+      "PercentChange": 0.34,
+      "Volume": 50359600
+    },
+    {
+      "Time": "02/05/2020",
+      "Open": 332.27,
+      "High": 333.09,
+      "Low": 330.67,
+      "Last": 332.86,
+      "Change": 3.8,
+      "PercentChange": 1.15,
+      "Volume": 65951100
+    },
+    {
+      "Time": "02/04/2020",
+      "Open": 328.07,
+      "High": 330.01,
+      "Low": 327.72,
+      "Last": 329.06,
+      "Change": 4.94,
+      "PercentChange": 1.52,
+      "Volume": 62573100
+    },
+    {
+      "Time": "02/03/2020",
+      "Open": 323.35,
+      "High": 326.16,
+      "Low": 323.22,
+      "Last": 324.12,
+      "Change": 2.39,
+      "PercentChange": 0.74,
+      "Volume": 69242200
+    },
+    {
+      "Time": "01/31/2020",
+      "Open": 327,
+      "High": 327.17,
+      "Low": 320.73,
+      "Last": 321.73,
+      "Change": -5.95,
+      "PercentChange": -1.82,
+      "Volume": 113845504
+    },
+    {
+      "Time": "01/30/2020",
+      "Open": 324.36,
+      "High": 327.91,
+      "Low": 323.54,
+      "Last": 327.68,
+      "Change": 1.06,
+      "PercentChange": 0.32,
+      "Volume": 75491800
+    },
+    {
+      "Time": "01/29/2020",
+      "Open": 328.38,
+      "High": 328.63,
+      "Low": 326.4,
+      "Last": 326.62,
+      "Change": -0.27,
+      "PercentChange": -0.08,
+      "Volume": 54040800
+    },
+    {
+      "Time": "01/28/2020",
+      "Open": 325.06,
+      "High": 327.85,
+      "Low": 323.6038,
+      "Last": 326.89,
+      "Change": 3.39,
+      "PercentChange": 1.05,
+      "Volume": 63833900
+    },
+    {
+      "Time": "01/27/2020",
+      "Open": 323.03,
+      "High": 325.12,
+      "Low": 322.66,
+      "Last": 323.5,
+      "Change": -5.27,
+      "PercentChange": -1.60,
+      "Volume": 84062400
+    },
+    {
+      "Time": "01/24/2020",
+      "Open": 332.44,
+      "High": 332.53,
+      "Low": 327.36,
+      "Last": 328.77,
+      "Change": -2.95,
+      "PercentChange": -0.89,
+      "Volume": 87578400
+    },
+    {
+      "Time": "01/23/2020",
+      "Open": 330.63,
+      "High": 332.1682,
+      "Low": 329.41,
+      "Last": 331.72,
+      "Change": 0.38,
+      "PercentChange": 0.11,
+      "Volume": 51962900
+    },
+    {
+      "Time": "01/22/2020",
+      "Open": 332.24,
+      "High": 332.95,
+      "Low": 331.17,
+      "Last": 331.34,
+      "Change": 0.04,
+      "PercentChange": 0.01,
+      "Volume": 48914800
+    },
+    {
+      "Time": "01/21/2020",
+      "Open": 330.9,
+      "High": 332.18,
+      "Low": 330.82,
+      "Last": 331.3,
+      "Change": -0.65,
+      "PercentChange": -0.20,
+      "Volume": 77742400
+    },
+    {
+      "Time": "01/17/2020",
+      "Open": 331.7,
+      "High": 332.18,
+      "Low": 330.8539,
+      "Last": 331.95,
+      "Change": 1.03,
+      "PercentChange": 0.31,
+      "Volume": 95846000
+    },
+    {
+      "Time": "01/16/2020",
+      "Open": 329.7,
+      "High": 330.92,
+      "Low": 329.45,
+      "Last": 330.92,
+      "Change": 2.73,
+      "PercentChange": 0.83,
+      "Volume": 54050300
+    },
+    {
+      "Time": "01/15/2020",
+      "Open": 327.35,
+      "High": 329.02,
+      "Low": 327.26,
+      "Last": 328.19,
+      "Change": 0.74,
+      "PercentChange": 0.23,
+      "Volume": 72056496
+    },
+    {
+      "Time": "01/14/2020",
+      "Open": 327.47,
+      "High": 328.62,
+      "Low": 326.844,
+      "Last": 327.45,
+      "Change": -0.5,
+      "PercentChange": -0.15,
+      "Volume": 63036300
+    },
+    {
+      "Time": "01/13/2020",
+      "Open": 326.39,
+      "High": 327.96,
+      "Low": 325.92,
+      "Last": 327.95,
+      "Change": 2.24,
+      "PercentChange": 0.69,
+      "Volume": 47262000
+    },
+    {
+      "Time": "01/10/2020",
+      "Open": 327.29,
+      "High": 327.46,
+      "Low": 325.2,
+      "Last": 325.71,
+      "Change": -0.94,
+      "PercentChange": -0.29,
+      "Volume": 53057300
+    },
+    {
+      "Time": "01/09/2020",
+      "Open": 326.16,
+      "High": 326.73,
+      "Low": 325.52,
+      "Last": 326.65,
+      "Change": 2.2,
+      "PercentChange": 0.68,
+      "Volume": 48569600
+    },
+    {
+      "Time": "01/08/2020",
+      "Open": 323.24,
+      "High": 325.78,
+      "Low": 322.67,
+      "Last": 324.45,
+      "Change": 1.72,
+      "PercentChange": 0.53,
+      "Volume": 68434096
+    },
+    {
+      "Time": "01/07/2020",
+      "Open": 323.02,
+      "High": 323.54,
+      "Low": 322.24,
+      "Last": 322.73,
+      "Change": -0.91,
+      "PercentChange": -0.28,
+      "Volume": 42799700
+    },
+    {
+      "Time": "01/06/2020",
+      "Open": 320.49,
+      "High": 323.73,
+      "Low": 320.36,
+      "Last": 323.64,
+      "Change": 1.23,
+      "PercentChange": 0.38,
+      "Volume": 55761900
+    },
+    {
+      "Time": "01/03/2020",
+      "Open": 321.16,
+      "High": 323.64,
+      "Low": 321.1,
+      "Last": 322.41,
+      "Change": -2.46,
+      "PercentChange": -0.76,
+      "Volume": 77783104
+    },
+    {
+      "Time": "01/02/2020",
+      "Open": 323.54,
+      "High": 324.89,
+      "Low": 322.53,
+      "Last": 324.87,
+      "Change": 3.01,
+      "PercentChange": 0.94,
+      "Volume": 59253800
+    },
+    {
+      "Time": "12/31/2019",
+      "Open": 320.53,
+      "High": 322.13,
+      "Low": 320.15,
+      "Last": 321.86,
+      "Change": 0.78,
+      "PercentChange": 0.24,
+      "Volume": 57107000
+    },
+    {
+      "Time": "12/30/2019",
+      "Open": 322.95,
+      "High": 323.1,
+      "Low": 320.55,
+      "Last": 321.08,
+      "Change": -1.78,
+      "PercentChange": -0.55,
+      "Volume": 49782700
+    },
+    {
+      "Time": "12/27/2019",
+      "Open": 323.74,
+      "High": 323.8,
+      "Low": 322.28,
+      "Last": 322.86,
+      "Change": -0.08,
+      "PercentChange": -0.02,
+      "Volume": 42554800
+    },
+    {
+      "Time": "12/26/2019",
+      "Open": 321.65,
+      "High": 322.95,
+      "Low": 321.64,
+      "Last": 322.94,
+      "Change": 1.71,
+      "PercentChange": 0.53,
+      "Volume": 31024100
+    },
+    {
+      "Time": "12/24/2019",
+      "Open": 321.47,
+      "High": 321.52,
+      "Low": 320.9,
+      "Last": 321.23,
+      "Change": 0.01,
+      "PercentChange": 0.00,
+      "Volume": 20270000
+    },
+    {
+      "Time": "12/23/2019",
+      "Open": 321.59,
+      "High": 321.65,
+      "Low": 321.06,
+      "Last": 321.22,
+      "Change": 0.49,
+      "PercentChange": 0.15,
+      "Volume": 53015600
+    },
+    {
+      "Time": "12/20/2019",
+      "Open": 320.46,
+      "High": 321.9742,
+      "Low": 319.3873,
+      "Last": 320.73,
+      "Change": -0.17,
+      "PercentChange": -0.05,
+      "Volume": 149338208
+    },
+    {
+      "Time": "12/19/2019",
+      "Open": 319.8,
+      "High": 320.98,
+      "Low": 319.5246,
+      "Last": 320.9,
+      "Change": 1.31,
+      "PercentChange": 0.41,
+      "Volume": 85388400
+    },
+    {
+      "Time": "12/18/2019",
+      "Open": 320,
+      "High": 320.25,
+      "Low": 319.53,
+      "Last": 319.59,
+      "Change": 0.02,
+      "PercentChange": 0.01,
+      "Volume": 48199900
+    },
+    {
+      "Time": "12/17/2019",
+      "Open": 319.92,
+      "High": 320.25,
+      "Low": 319.48,
+      "Last": 319.57,
+      "Change": 0.07,
+      "PercentChange": 0.02,
+      "Volume": 61131700
+    },
+    {
+      "Time": "12/16/2019",
+      "Open": 319.22,
+      "High": 320.15,
+      "Low": 317.2542,
+      "Last": 319.5,
+      "Change": 2.18,
+      "PercentChange": 0.69,
+      "Volume": 82836096
+    },
+    {
+      "Time": "12/13/2019",
+      "Open": 316.87,
+      "High": 318.67,
+      "Low": 316.02,
+      "Last": 317.32,
+      "Change": 0.19,
+      "PercentChange": 0.06,
+      "Volume": 81546400
+    },
+    {
+      "Time": "12/12/2019",
+      "Open": 314.43,
+      "High": 317.99,
+      "Low": 314.17,
+      "Last": 317.13,
+      "Change": 2.71,
+      "PercentChange": 0.86,
+      "Volume": 96585800
+    },
+    {
+      "Time": "12/11/2019",
+      "Open": 314.03,
+      "High": 314.7,
+      "Low": 313.4393,
+      "Last": 314.42,
+      "Change": 0.89,
+      "PercentChange": 0.28,
+      "Volume": 53521400
+    },
+    {
+      "Time": "12/10/2019",
+      "Open": 313.82,
+      "High": 314.55,
+      "Low": 312.81,
+      "Last": 313.53,
+      "Change": -0.35,
+      "PercentChange": -0.11,
+      "Volume": 53107100
+    },
+    {
+      "Time": "12/09/2019",
+      "Open": 314.44,
+      "High": 315.18,
+      "Low": 313.8,
+      "Last": 313.88,
+      "Change": -0.99,
+      "PercentChange": -0.31,
+      "Volume": 34904300
+    },
+    {
+      "Time": "12/06/2019",
+      "Open": 314.12,
+      "High": 315.31,
+      "Low": 314.11,
+      "Last": 314.87,
+      "Change": 2.85,
+      "PercentChange": 0.91,
+      "Volume": 48956700
+    },
+    {
+      "Time": "12/05/2019",
+      "Open": 312.23,
+      "High": 312.25,
+      "Low": 310.58,
+      "Last": 312.02,
+      "Change": 0.56,
+      "PercentChange": 0.18,
+      "Volume": 40781600
+    },
+    {
+      "Time": "12/04/2019",
+      "Open": 310.7,
+      "High": 312.12,
+      "Low": 310.32,
+      "Last": 311.46,
+      "Change": 1.91,
+      "PercentChange": 0.62,
+      "Volume": 49190400
+    },
+    {
+      "Time": "12/03/2019",
+      "Open": 308.77,
+      "High": 309.64,
+      "Low": 307.13,
+      "Last": 309.55,
+      "Change": -2.09,
+      "PercentChange": -0.67,
+      "Volume": 75172704
+    },
+    {
+      "Time": "12/02/2019",
+      "Open": 314.59,
+      "High": 314.66,
+      "Low": 311.17,
+      "Last": 311.64,
+      "Change": -2.67,
+      "PercentChange": -0.85,
+      "Volume": 76110000
+    },
+    {
+      "Time": "11/29/2019",
+      "Open": 314.86,
+      "High": 315.13,
+      "Low": 314.06,
+      "Last": 314.31,
+      "Change": -1.17,
+      "PercentChange": -0.37,
+      "Volume": 36592700
+    },
+    {
+      "Time": "11/27/2019",
+      "Open": 314.61,
+      "High": 315.48,
+      "Low": 314.37,
+      "Last": 315.48,
+      "Change": 1.4,
+      "PercentChange": 0.45,
+      "Volume": 44793100
+    },
+    {
+      "Time": "11/26/2019",
+      "Open": 313.41,
+      "High": 314.28,
+      "Low": 313.06,
+      "Last": 314.08,
+      "Change": 0.71,
+      "PercentChange": 0.23,
+      "Volume": 37727900
+    },
+    {
+      "Time": "11/25/2019",
+      "Open": 311.98,
+      "High": 313.37,
+      "Low": 311.98,
+      "Last": 313.37,
+      "Change": 2.41,
+      "PercentChange": 0.78,
+      "Volume": 48762600
+    },
+    {
+      "Time": "11/22/2019",
+      "Open": 311.09,
+      "High": 311.24,
+      "Low": 309.85,
+      "Last": 310.96,
+      "Change": 0.69,
+      "PercentChange": 0.22,
+      "Volume": 44850200
+    },
+    {
+      "Time": "11/21/2019",
+      "Open": 310.89,
+      "High": 311.01,
+      "Low": 309.39,
+      "Last": 310.27,
+      "Change": -0.5,
+      "PercentChange": -0.16,
+      "Volume": 54664600
+    },
+    {
+      "Time": "11/20/2019",
+      "Open": 311.28,
+      "High": 311.85,
+      "Low": 309.06,
+      "Last": 310.77,
+      "Change": -1.16,
+      "PercentChange": -0.37,
+      "Volume": 79696200
+    },
+    {
+      "Time": "11/19/2019",
+      "Open": 312.68,
+      "High": 312.69,
+      "Low": 311.22,
+      "Last": 311.93,
+      "Change": -0.09,
+      "PercentChange": -0.03,
+      "Volume": 67927800
+    },
+    {
+      "Time": "11/18/2019",
+      "Open": 311.53,
+      "High": 312.28,
+      "Low": 311.03,
+      "Last": 312.02,
+      "Change": 0.23,
+      "PercentChange": 0.07,
+      "Volume": 49327900
+    },
+    {
+      "Time": "11/15/2019",
+      "Open": 311.02,
+      "High": 311.84,
+      "Low": 310.26,
+      "Last": 311.79,
+      "Change": 2.24,
+      "PercentChange": 0.72,
+      "Volume": 62706100
+    },
+    {
+      "Time": "11/14/2019",
+      "Open": 308.79,
+      "High": 309.64,
+      "Low": 308.09,
+      "Last": 309.55,
+      "Change": 0.45,
+      "PercentChange": 0.15,
+      "Volume": 52001800
+    },
+    {
+      "Time": "11/13/2019",
+      "Open": 307.91,
+      "High": 309.54,
+      "Low": 307.66,
+      "Last": 309.1,
+      "Change": 0.1,
+      "PercentChange": 0.03,
+      "Volume": 54385500
+    },
+    {
+      "Time": "11/12/2019",
+      "Open": 308.75,
+      "High": 309.99,
+      "Low": 308.15,
+      "Last": 309,
+      "Change": 0.65,
+      "PercentChange": 0.21,
+      "Volume": 46444000
+    },
+    {
+      "Time": "11/11/2019",
+      "Open": 307.42,
+      "High": 308.54,
+      "Low": 307.27,
+      "Last": 308.35,
+      "Change": -0.59,
+      "PercentChange": -0.19,
+      "Volume": 35934900
+    },
+    {
+      "Time": "11/08/2019",
+      "Open": 307.8,
+      "High": 309.0036,
+      "Low": 307.03,
+      "Last": 308.94,
+      "Change": 0.76,
+      "PercentChange": 0.25,
+      "Volume": 49068800
+    },
+    {
+      "Time": "11/07/2019",
+      "Open": 308.57,
+      "High": 309.65,
+      "Low": 307.66,
+      "Last": 308.18,
+      "Change": 1.08,
+      "PercentChange": 0.35,
+      "Volume": 54272200
+    },
+    {
+      "Time": "11/06/2019",
+      "Open": 307.03,
+      "High": 307.4,
+      "Low": 306.06,
+      "Last": 307.1,
+      "Change": 0.07,
+      "PercentChange": 0.02,
+      "Volume": 46487100
+    },
+    {
+      "Time": "11/05/2019",
+      "Open": 307.59,
+      "High": 307.9195,
+      "Low": 306.71,
+      "Last": 307.03,
+      "Change": -0.34,
+      "PercentChange": -0.11,
+      "Volume": 42933200
+    },
+    {
+      "Time": "11/04/2019",
+      "Open": 307.85,
+      "High": 308,
+      "Low": 306.96,
+      "Last": 307.37,
+      "Change": 1.23,
+      "PercentChange": 0.40,
+      "Volume": 60606900
+    },
+    {
+      "Time": "11/01/2019",
+      "Open": 304.92,
+      "High": 306.19,
+      "Low": 304.74,
+      "Last": 306.14,
+      "Change": 2.81,
+      "PercentChange": 0.93,
+      "Volume": 71141504
+    },
+    {
+      "Time": "10/31/2019",
+      "Open": 304.13,
+      "High": 304.13,
+      "Low": 301.73,
+      "Last": 303.33,
+      "Change": -0.81,
+      "PercentChange": -0.27,
+      "Volume": 69053696
+    },
+    {
+      "Time": "10/30/2019",
+      "Open": 303.43,
+      "High": 304.55,
+      "Low": 301.99,
+      "Last": 304.14,
+      "Change": 0.93,
+      "PercentChange": 0.31,
+      "Volume": 49643900
+    },
+    {
+      "Time": "10/29/2019",
+      "Open": 303,
+      "High": 304.23,
+      "Low": 302.86,
+      "Last": 303.21,
+      "Change": -0.09,
+      "PercentChange": -0.03,
+      "Volume": 44284900
+    },
+    {
+      "Time": "10/28/2019",
+      "Open": 302.94,
+      "High": 303.85,
+      "Low": 302.91,
+      "Last": 303.3,
+      "Change": 1.7,
+      "PercentChange": 0.56,
+      "Volume": 42146900
+    },
+    {
+      "Time": "10/25/2019",
+      "Open": 299.74,
+      "High": 302.2,
+      "Low": 299.6806,
+      "Last": 301.6,
+      "Change": 1.23,
+      "PercentChange": 0.41,
+      "Volume": 45205400
+    },
+    {
+      "Time": "10/24/2019",
+      "Open": 300.91,
+      "High": 301.07,
+      "Low": 299.4601,
+      "Last": 300.37,
+      "Change": 0.49,
+      "PercentChange": 0.16,
+      "Volume": 35857400
+    },
+    {
+      "Time": "10/23/2019",
+      "Open": 298.73,
+      "High": 299.94,
+      "Low": 298.495,
+      "Last": 299.88,
+      "Change": 0.87,
+      "PercentChange": 0.29,
+      "Volume": 34991800
+    },
+    {
+      "Time": "10/22/2019",
+      "Open": 300.58,
+      "High": 300.9,
+      "Low": 298.91,
+      "Last": 299.01,
+      "Change": -0.98,
+      "PercentChange": -0.33,
+      "Volume": 49126000
+    },
+    {
+      "Time": "10/21/2019",
+      "Open": 299.42,
+      "High": 300.21,
+      "Low": 298.935,
+      "Last": 299.99,
+      "Change": 2.02,
+      "PercentChange": 0.68,
+      "Volume": 39460900
+    },
+    {
+      "Time": "10/18/2019",
+      "Open": 298.69,
+      "High": 299.395,
+      "Low": 296.99,
+      "Last": 297.97,
+      "Change": -1.31,
+      "PercentChange": -0.44,
+      "Volume": 64338000
+    },
+    {
+      "Time": "10/17/2019",
+      "Open": 299.68,
+      "High": 300.24,
+      "Low": 298.515,
+      "Last": 299.28,
+      "Change": 0.88,
+      "PercentChange": 0.29,
+      "Volume": 46784800
+    },
+    {
+      "Time": "10/16/2019",
+      "Open": 298.37,
+      "High": 299.16,
+      "Low": 297.92,
+      "Last": 298.4,
+      "Change": -0.48,
+      "PercentChange": -0.16,
+      "Volume": 50563500
+    },
+    {
+      "Time": "10/15/2019",
+      "Open": 297.1,
+      "High": 299.7,
+      "Low": 296.97,
+      "Last": 298.88,
+      "Change": 2.93,
+      "PercentChange": 0.99,
+      "Volume": 47832300
+    },
+    {
+      "Time": "10/14/2019",
+      "Open": 295.93,
+      "High": 296.67,
+      "Low": 295.57,
+      "Last": 295.95,
+      "Change": -0.33,
+      "PercentChange": -0.11,
+      "Volume": 40546600
+    },
+    {
+      "Time": "10/11/2019",
+      "Open": 296.27,
+      "High": 298.74,
+      "Low": 296.1448,
+      "Last": 296.28,
+      "Change": 3.04,
+      "PercentChange": 1.04,
+      "Volume": 101228496
+    },
+    {
+      "Time": "10/10/2019",
+      "Open": 291.18,
+      "High": 294.21,
+      "Low": 291,
+      "Last": 293.24,
+      "Change": 1.97,
+      "PercentChange": 0.68,
+      "Volume": 57255900
+    },
+    {
+      "Time": "10/09/2019",
+      "Open": 291.2,
+      "High": 292.3,
+      "Low": 288.66,
+      "Last": 291.27,
+      "Change": 2.74,
+      "PercentChange": 0.95,
+      "Volume": 65701000
+    },
+    {
+      "Time": "10/08/2019",
+      "Open": 291.11,
+      "High": 291.85,
+      "Low": 288.49,
+      "Last": 288.53,
+      "Change": -4.55,
+      "PercentChange": -1.55,
+      "Volume": 101575400
+    },
+    {
+      "Time": "10/07/2019",
+      "Open": 293.47,
+      "High": 295.26,
+      "Low": 292.77,
+      "Last": 293.08,
+      "Change": -1.27,
+      "PercentChange": -0.43,
+      "Volume": 60656500
+    },
+    {
+      "Time": "10/04/2019",
+      "Open": 291.14,
+      "High": 294.63,
+      "Low": 290.82,
+      "Last": 294.35,
+      "Change": 3.93,
+      "PercentChange": 1.35,
+      "Volume": 66700600
+    },
+    {
+      "Time": "10/03/2019",
+      "Open": 287.81,
+      "High": 290.45,
+      "Low": 284.82,
+      "Last": 290.42,
+      "Change": 2.36,
+      "PercentChange": 0.82,
+      "Volume": 85906800
+    },
+    {
+      "Time": "10/02/2019",
+      "Open": 291.5,
+      "High": 291.51,
+      "Low": 286.64,
+      "Last": 288.06,
+      "Change": -5.18,
+      "PercentChange": -1.77,
+      "Volume": 124523904
+    },
+    {
+      "Time": "10/01/2019",
+      "Open": 297.74,
+      "High": 298.455,
+      "Low": 293,
+      "Last": 293.24,
+      "Change": -3.53,
+      "PercentChange": -1.19,
+      "Volume": 89900400
+    },
+    {
+      "Time": "09/30/2019",
+      "Open": 295.97,
+      "High": 297.55,
+      "Low": 295.92,
+      "Last": 296.77,
+      "Change": 1.37,
+      "PercentChange": 0.46,
+      "Volume": 52562700
+    },
+    {
+      "Time": "09/27/2019",
+      "Open": 297.83,
+      "High": 297.9465,
+      "Low": 293.69,
+      "Last": 295.4,
+      "Change": -1.6,
+      "PercentChange": -0.54,
+      "Volume": 84781104
+    },
+    {
+      "Time": "09/26/2019",
+      "Open": 297.63,
+      "High": 297.86,
+      "Low": 295.45,
+      "Last": 297,
+      "Change": -0.62,
+      "PercentChange": -0.21,
+      "Volume": 58722300
+    },
+    {
+      "Time": "09/25/2019",
+      "Open": 295.96,
+      "High": 298.11,
+      "Low": 294.33,
+      "Last": 297.62,
+      "Change": 1.75,
+      "PercentChange": 0.59,
+      "Volume": 73434000
+    },
+    {
+      "Time": "09/24/2019",
+      "Open": 299.41,
+      "High": 299.84,
+      "Low": 294.81,
+      "Last": 295.87,
+      "Change": -2.34,
+      "PercentChange": -0.78,
+      "Volume": 97367504
+    },
+    {
+      "Time": "09/23/2019",
+      "Open": 297.55,
+      "High": 299,
+      "Low": 297.27,
+      "Last": 298.21,
+      "Change": -0.07,
+      "PercentChange": -0.02,
+      "Volume": 47541300
+    },
+    {
+      "Time": "09/20/2019",
+      "Open": 300.36,
+      "High": 300.67,
+      "Low": 297.41,
+      "Last": 298.28,
+      "Change": -2.8,
+      "PercentChange": -0.93,
+      "Volume": 97455904
+    },
+    {
+      "Time": "09/19/2019",
+      "Open": 301.53,
+      "High": 302.63,
+      "Low": 300.7103,
+      "Last": 301.08,
+      "Change": -0.02,
+      "PercentChange": -0.01,
+      "Volume": 78099200
+    },
+    {
+      "Time": "09/18/2019",
+      "Open": 300.49,
+      "High": 301.22,
+      "Low": 298.24,
+      "Last": 301.1,
+      "Change": 0.18,
+      "PercentChange": 0.06,
+      "Volume": 74192000
+    },
+    {
+      "Time": "09/17/2019",
+      "Open": 299.94,
+      "High": 301.02,
+      "Low": 299.75,
+      "Last": 300.92,
+      "Change": 0.76,
+      "PercentChange": 0.25,
+      "Volume": 42904400
+    },
+    {
+      "Time": "09/16/2019",
+      "Open": 299.84,
+      "High": 301.1378,
+      "Low": 299.45,
+      "Last": 300.16,
+      "Change": -0.93,
+      "PercentChange": -0.31,
+      "Volume": 58191100
+    },
+    {
+      "Time": "09/13/2019",
+      "Open": 301.78,
+      "High": 302.17,
+      "Low": 300.68,
+      "Last": 301.09,
+      "Change": -0.2,
+      "PercentChange": -0.07,
+      "Volume": 62104800
+    },
+    {
+      "Time": "09/12/2019",
+      "Open": 301.25,
+      "High": 302.46,
+      "Low": 300.41,
+      "Last": 301.29,
+      "Change": 1.04,
+      "PercentChange": 0.35,
+      "Volume": 72908704
+    },
+    {
+      "Time": "09/11/2019",
+      "Open": 298.47,
+      "High": 300.34,
+      "Low": 297.75,
+      "Last": 300.25,
+      "Change": 2.12,
+      "PercentChange": 0.71,
+      "Volume": 68821000
+    },
+    {
+      "Time": "09/10/2019",
+      "Open": 297.36,
+      "High": 298.2,
+      "Low": 295.97,
+      "Last": 298.13,
+      "Change": -0.07,
+      "PercentChange": -0.02,
+      "Volume": 57947100
+    },
+    {
+      "Time": "09/09/2019",
+      "Open": 299.14,
+      "High": 299.24,
+      "Low": 297.16,
+      "Last": 298.2,
+      "Change": 0.15,
+      "PercentChange": 0.05,
+      "Volume": 51260200
+    },
+    {
+      "Time": "09/06/2019",
+      "Open": 298.17,
+      "High": 298.76,
+      "Low": 297.42,
+      "Last": 298.05,
+      "Change": 0.23,
+      "PercentChange": 0.08,
+      "Volume": 49584200
+    },
+    {
+      "Time": "09/05/2019",
+      "Open": 296.79,
+      "High": 298.83,
+      "Low": 294.001,
+      "Last": 297.82,
+      "Change": 3.78,
+      "PercentChange": 1.29,
+      "Volume": 83356704
+    },
+    {
+      "Time": "09/04/2019",
+      "Open": 293.14,
+      "High": 294.055,
+      "Low": 292.31,
+      "Last": 294.04,
+      "Change": 3.3,
+      "PercentChange": 1.14,
+      "Volume": 47003900
+    },
+    {
+      "Time": "09/03/2019",
+      "Open": 290.57,
+      "High": 291.58,
+      "Low": 289.27,
+      "Last": 290.74,
+      "Change": -1.71,
+      "PercentChange": -0.58,
+      "Volume": 69231800
+    },
+    {
+      "Time": "08/30/2019",
+      "Open": 294.22,
+      "High": 294.2399,
+      "Low": 291.42,
+      "Last": 292.45,
+      "Change": -0.13,
+      "PercentChange": -0.04,
+      "Volume": 62961700
+    },
+    {
+      "Time": "08/29/2019",
+      "Open": 291.72,
+      "High": 293.16,
+      "Low": 290.61,
+      "Last": 292.58,
+      "Change": 3.69,
+      "PercentChange": 1.28,
+      "Volume": 57998900
+    },
+    {
+      "Time": "08/28/2019",
+      "Open": 286.14,
+      "High": 289.07,
+      "Low": 285.25,
+      "Last": 288.89,
+      "Change": 2.02,
+      "PercentChange": 0.70,
+      "Volume": 59852300
+    },
+    {
+      "Time": "08/27/2019",
+      "Open": 289.54,
+      "High": 289.95,
+      "Low": 286.03,
+      "Last": 286.87,
+      "Change": -1.13,
+      "PercentChange": -0.39,
+      "Volume": 68263000
+    },
+    {
+      "Time": "08/26/2019",
+      "Open": 287.27,
+      "High": 288,
+      "Low": 285.58,
+      "Last": 288,
+      "Change": 3.15,
+      "PercentChange": 1.11,
+      "Volume": 72620496
+    },
+    {
+      "Time": "08/23/2019",
+      "Open": 290.92,
+      "High": 292.76,
+      "Low": 283.47,
+      "Last": 284.85,
+      "Change": -7.51,
+      "PercentChange": -2.57,
+      "Volume": 149318096
+    },
+    {
+      "Time": "08/22/2019",
+      "Open": 293.23,
+      "High": 293.93,
+      "Low": 290.4,
+      "Last": 292.36,
+      "Change": -0.09,
+      "PercentChange": -0.03,
+      "Volume": 51739200
+    },
+    {
+      "Time": "08/21/2019",
+      "Open": 292.48,
+      "High": 292.86,
+      "Low": 291.72,
+      "Last": 292.45,
+      "Change": 2.36,
+      "PercentChange": 0.81,
+      "Volume": 49723400
+    },
+    {
+      "Time": "08/20/2019",
+      "Open": 291.77,
+      "High": 292.36,
+      "Low": 289.95,
+      "Last": 290.09,
+      "Change": -2.24,
+      "PercentChange": -0.77,
+      "Volume": 51652700
+    },
+    {
+      "Time": "08/19/2019",
+      "Open": 292.19,
+      "High": 293.08,
+      "Low": 291.44,
+      "Last": 292.33,
+      "Change": 3.48,
+      "PercentChange": 1.20,
+      "Volume": 53640100
+    },
+    {
+      "Time": "08/16/2019",
+      "Open": 286.48,
+      "High": 289.33,
+      "Low": 284.7138,
+      "Last": 288.85,
+      "Change": 4.2,
+      "PercentChange": 1.48,
+      "Volume": 85825200
+    },
+    {
+      "Time": "08/15/2019",
+      "Open": 284.88,
+      "High": 285.64,
+      "Low": 282.39,
+      "Last": 284.65,
+      "Change": 0.75,
+      "PercentChange": 0.26,
+      "Volume": 101929800
+    },
+    {
+      "Time": "08/14/2019",
+      "Open": 288.74,
+      "High": 292.4644,
+      "Low": 283.76,
+      "Last": 283.9,
+      "Change": -8.65,
+      "PercentChange": -2.96,
+      "Volume": 135622000
+    },
+    {
+      "Time": "08/13/2019",
+      "Open": 287.74,
+      "High": 294.15,
+      "Low": 287.36,
+      "Last": 292.55,
+      "Change": 4.48,
+      "PercentChange": 1.56,
+      "Volume": 94792896
+    },
+    {
+      "Time": "08/12/2019",
+      "Open": 289.96,
+      "High": 291.61,
+      "Low": 287.02,
+      "Last": 288.07,
+      "Change": -3.55,
+      "PercentChange": -1.22,
+      "Volume": 65185700
+    },
+    {
+      "Time": "08/09/2019",
+      "Open": 292.58,
+      "High": 293.24,
+      "Low": 289.65,
+      "Last": 291.62,
+      "Change": -2,
+      "PercentChange": -0.68,
+      "Volume": 93729904
+    },
+    {
+      "Time": "08/08/2019",
+      "Open": 289.62,
+      "High": 293.62,
+      "Low": 289.01,
+      "Last": 293.62,
+      "Change": 5.65,
+      "PercentChange": 1.96,
+      "Volume": 87713904
+    },
+    {
+      "Time": "08/07/2019",
+      "Open": 284.4,
+      "High": 288.82,
+      "Low": 282.04,
+      "Last": 287.97,
+      "Change": 0.17,
+      "PercentChange": 0.06,
+      "Volume": 140572192
+    },
+    {
+      "Time": "08/06/2019",
+      "Open": 285.91,
+      "High": 288.04,
+      "Low": 284.28,
+      "Last": 287.8,
+      "Change": 3.98,
+      "PercentChange": 1.40,
+      "Volume": 120711600
+    },
+    {
+      "Time": "08/05/2019",
+      "Open": 288.09,
+      "High": 288.21,
+      "Low": 281.72,
+      "Last": 283.82,
+      "Change": -8.8,
+      "PercentChange": -3.01,
+      "Volume": 178745408
+    },
+    {
+      "Time": "08/02/2019",
+      "Open": 293.85,
+      "High": 294.12,
+      "Low": 290.9,
+      "Last": 292.62,
+      "Change": -2.22,
+      "PercentChange": -0.75,
+      "Volume": 116749696
+    },
+    {
+      "Time": "08/01/2019",
+      "Open": 297.6,
+      "High": 300.87,
+      "Low": 293.96,
+      "Last": 294.84,
+      "Change": -2.59,
+      "PercentChange": -0.87,
+      "Volume": 142646496
+    },
+    {
+      "Time": "07/31/2019",
+      "Open": 300.99,
+      "High": 301.2,
+      "Low": 295.2,
+      "Last": 297.43,
+      "Change": -3.29,
+      "PercentChange": -1.09,
+      "Volume": 104245104
+    },
+    {
+      "Time": "07/30/2019",
+      "Open": 299.91,
+      "High": 301.17,
+      "Low": 299.49,
+      "Last": 300.72,
+      "Change": -0.74,
+      "PercentChange": -0.25,
+      "Volume": 45849000
+    },
+    {
+      "Time": "07/29/2019",
+      "Open": 301.88,
+      "High": 301.93,
+      "Low": 300.85,
+      "Last": 301.46,
+      "Change": -0.55,
+      "PercentChange": -0.18,
+      "Volume": 38126400
+    },
+    {
+      "Time": "07/26/2019",
+      "Open": 300.76,
+      "High": 302.23,
+      "Low": 300.62,
+      "Last": 302.01,
+      "Change": 2.01,
+      "PercentChange": 0.67,
+      "Volume": 45084000
+    },
+    {
+      "Time": "07/25/2019",
+      "Open": 300.94,
+      "High": 301,
+      "Low": 299.11,
+      "Last": 300,
+      "Change": -1.44,
+      "PercentChange": -0.48,
+      "Volume": 55394000
+    },
+    {
+      "Time": "07/24/2019",
+      "Open": 299.19,
+      "High": 301.44,
+      "Low": 299.09,
+      "Last": 301.44,
+      "Change": 1.41,
+      "PercentChange": 0.47,
+      "Volume": 47213200
+    },
+    {
+      "Time": "07/23/2019",
+      "Open": 299.14,
+      "High": 300.03,
+      "Low": 298.22,
+      "Last": 300.03,
+      "Change": 2.13,
+      "PercentChange": 0.72,
+      "Volume": 44657900
+    },
+    {
+      "Time": "07/22/2019",
+      "Open": 297.61,
+      "High": 298.5,
+      "Low": 297.04,
+      "Last": 297.9,
+      "Change": 0.73,
+      "PercentChange": 0.25,
+      "Volume": 43687400
+    },
+    {
+      "Time": "07/19/2019",
+      "Open": 300.04,
+      "High": 300.07,
+      "Low": 296.96,
+      "Last": 297.17,
+      "Change": -1.66,
+      "PercentChange": -0.56,
+      "Volume": 71081200
+    },
+    {
+      "Time": "07/18/2019",
+      "Open": 297.19,
+      "High": 299.25,
+      "Low": 296.7,
+      "Last": 298.83,
+      "Change": 1.09,
+      "PercentChange": 0.37,
+      "Volume": 51701600
+    },
+    {
+      "Time": "07/17/2019",
+      "Open": 299.75,
+      "High": 299.93,
+      "Low": 297.74,
+      "Last": 297.74,
+      "Change": -1.97,
+      "PercentChange": -0.66,
+      "Volume": 44102400
+    },
+    {
+      "Time": "07/16/2019",
+      "Open": 300.65,
+      "High": 300.88,
+      "Low": 299.44,
+      "Last": 299.71,
+      "Change": -1.04,
+      "PercentChange": -0.35,
+      "Volume": 40567900
+    },
+    {
+      "Time": "07/15/2019",
+      "Open": 301.13,
+      "High": 301.13,
+      "Low": 300.19,
+      "Last": 300.75,
+      "Change": 0.1,
+      "PercentChange": 0.03,
+      "Volume": 33910200
+    },
+    {
+      "Time": "07/12/2019",
+      "Open": 299.85,
+      "High": 300.73,
+      "Low": 299.51,
+      "Last": 300.65,
+      "Change": 1.34,
+      "PercentChange": 0.45,
+      "Volume": 40354400
+    },
+    {
+      "Time": "07/11/2019",
+      "Open": 299.32,
+      "High": 299.58,
+      "Low": 298.2,
+      "Last": 299.31,
+      "Change": 0.7,
+      "PercentChange": 0.23,
+      "Volume": 50889400
+    },
+    {
+      "Time": "07/10/2019",
+      "Open": 298.37,
+      "High": 299.66,
+      "Low": 297.78,
+      "Last": 298.61,
+      "Change": 1.42,
+      "PercentChange": 0.48,
+      "Volume": 58595500
+    },
+    {
+      "Time": "07/09/2019",
+      "Open": 295.54,
+      "High": 297.52,
+      "Low": 295.48,
+      "Last": 297.19,
+      "Change": 0.37,
+      "PercentChange": 0.12,
+      "Volume": 41101200
+    },
+    {
+      "Time": "07/08/2019",
+      "Open": 297.01,
+      "High": 298.2579,
+      "Low": 296.22,
+      "Last": 296.82,
+      "Change": -1.64,
+      "PercentChange": -0.55,
+      "Volume": 45841700
+    },
+    {
+      "Time": "07/05/2019",
+      "Open": 297.44,
+      "High": 298.64,
+      "Low": 296.01,
+      "Last": 298.46,
+      "Change": -0.34,
+      "PercentChange": -0.11,
+      "Volume": 51677300
+    },
+    {
+      "Time": "07/03/2019",
+      "Open": 297.18,
+      "High": 298.82,
+      "Low": 297.02,
+      "Last": 298.8,
+      "Change": 2.37,
+      "PercentChange": 0.80,
+      "Volume": 40898800
+    },
+    {
+      "Time": "07/02/2019",
+      "Open": 295.43,
+      "High": 296.49,
+      "Low": 294.68,
+      "Last": 296.43,
+      "Change": 0.77,
+      "PercentChange": 0.26,
+      "Volume": 61504500
+    },
+    {
+      "Time": "07/01/2019",
+      "Open": 296.68,
+      "High": 296.92,
+      "Low": 294.33,
+      "Last": 295.66,
+      "Change": 2.66,
+      "PercentChange": 0.91,
+      "Volume": 79107400
+    },
+    {
+      "Time": "06/28/2019",
+      "Open": 292.58,
+      "High": 293.55,
+      "Low": 292.01,
+      "Last": 293,
+      "Change": 1.5,
+      "PercentChange": 0.51,
+      "Volume": 59350900
+    },
+    {
+      "Time": "06/27/2019",
+      "Open": 291.31,
+      "High": 292.06,
+      "Low": 290.89,
+      "Last": 291.5,
+      "Change": 1.03,
+      "PercentChange": 0.35,
+      "Volume": 40355200
+    },
+    {
+      "Time": "06/26/2019",
+      "Open": 291.75,
+      "High": 292.31,
+      "Low": 290.345,
+      "Last": 290.47,
+      "Change": -0.29,
+      "PercentChange": -0.10,
+      "Volume": 51584900
+    },
+    {
+      "Time": "06/25/2019",
+      "Open": 293.7,
+      "High": 293.73,
+      "Low": 290.64,
+      "Last": 290.76,
+      "Change": -2.88,
+      "PercentChange": -0.98,
+      "Volume": 82028600
+    },
+    {
+      "Time": "06/24/2019",
+      "Open": 294.23,
+      "High": 294.58,
+      "Low": 293.47,
+      "Last": 293.64,
+      "Change": -0.36,
+      "PercentChange": -0.12,
+      "Volume": 47582700
+    },
+    {
+      "Time": "06/21/2019",
+      "Open": 294.13,
+      "High": 295.52,
+      "Low": 293.76,
+      "Last": 294,
+      "Change": -1.86,
+      "PercentChange": -0.63,
+      "Volume": 83309400
+    },
+    {
+      "Time": "06/20/2019",
+      "Open": 296.04,
+      "High": 296.3093,
+      "Low": 293.1255,
+      "Last": 295.86,
+      "Change": 2.8,
+      "PercentChange": 0.96,
+      "Volume": 116570000
+    },
+    {
+      "Time": "06/19/2019",
+      "Open": 292.55,
+      "High": 293.65,
+      "Low": 291.47,
+      "Last": 293.06,
+      "Change": 0.66,
+      "PercentChange": 0.23,
+      "Volume": 78674304
+    },
+    {
+      "Time": "06/18/2019",
+      "Open": 291.39,
+      "High": 293.57,
+      "Low": 290.99,
+      "Last": 292.4,
+      "Change": 3.03,
+      "PercentChange": 1.05,
+      "Volume": 85434800
+    },
+    {
+      "Time": "06/17/2019",
+      "Open": 289.52,
+      "High": 290.22,
+      "Low": 289.18,
+      "Last": 289.37,
+      "Change": 0.11,
+      "PercentChange": 0.04,
+      "Volume": 39205700
+    },
+    {
+      "Time": "06/14/2019",
+      "Open": 289.26,
+      "High": 289.93,
+      "Low": 288.41,
+      "Last": 289.26,
+      "Change": -0.32,
+      "PercentChange": -0.11,
+      "Volume": 52324700
+    },
+    {
+      "Time": "06/13/2019",
+      "Open": 289.4,
+      "High": 289.98,
+      "Low": 288.62,
+      "Last": 289.58,
+      "Change": 1.19,
+      "PercentChange": 0.41,
+      "Volume": 48945100
+    },
+    {
+      "Time": "06/12/2019",
+      "Open": 288.64,
+      "High": 289.26,
+      "Low": 287.815,
+      "Last": 288.39,
+      "Change": -0.51,
+      "PercentChange": -0.18,
+      "Volume": 47096300
+    },
+    {
+      "Time": "06/11/2019",
+      "Open": 290.99,
+      "High": 291.4,
+      "Low": 288.1805,
+      "Last": 288.9,
+      "Change": -0.07,
+      "PercentChange": -0.02,
+      "Volume": 58641300
+    },
+    {
+      "Time": "06/10/2019",
+      "Open": 289.37,
+      "High": 290.82,
+      "Low": 288.8734,
+      "Last": 288.97,
+      "Change": 1.32,
+      "PercentChange": 0.46,
+      "Volume": 60799000
+    },
+    {
+      "Time": "06/07/2019",
+      "Open": 285.93,
+      "High": 288.85,
+      "Low": 285.74,
+      "Last": 287.65,
+      "Change": 2.85,
+      "PercentChange": 1.00,
+      "Volume": 74272200
+    },
+    {
+      "Time": "06/06/2019",
+      "Open": 283.29,
+      "High": 285.55,
+      "Low": 282.57,
+      "Last": 284.8,
+      "Change": 1.84,
+      "PercentChange": 0.65,
+      "Volume": 69430304
+    },
+    {
+      "Time": "06/05/2019",
+      "Open": 282.33,
+      "High": 282.99,
+      "Low": 280.32,
+      "Last": 282.96,
+      "Change": 2.43,
+      "PercentChange": 0.87,
+      "Volume": 71169696
+    },
+    {
+      "Time": "06/04/2019",
+      "Open": 277.12,
+      "High": 280.68,
+      "Low": 276.62,
+      "Last": 280.53,
+      "Change": 5.96,
+      "PercentChange": 2.17,
+      "Volume": 77231800
+    },
+    {
+      "Time": "06/03/2019",
+      "Open": 275.31,
+      "High": 276.5521,
+      "Low": 273.09,
+      "Last": 274.57,
+      "Change": -0.7,
+      "PercentChange": -0.25,
+      "Volume": 96427904
+    },
+    {
+      "Time": "05/31/2019",
+      "Open": 276.2,
+      "High": 277.12,
+      "Low": 275.24,
+      "Last": 275.27,
+      "Change": -3.76,
+      "PercentChange": -1.35,
+      "Volume": 86862704
+    },
+    {
+      "Time": "05/30/2019",
+      "Open": 279.11,
+      "High": 280.04,
+      "Low": 277.805,
+      "Last": 279.03,
+      "Change": 0.76,
+      "PercentChange": 0.27,
+      "Volume": 62523700
+    },
+    {
+      "Time": "05/29/2019",
+      "Open": 278.91,
+      "High": 279.36,
+      "Low": 276.71,
+      "Last": 278.27,
+      "Change": -1.88,
+      "PercentChange": -0.67,
+      "Volume": 104947104
+    },
+    {
+      "Time": "05/28/2019",
+      "Open": 283.09,
+      "High": 284.15,
+      "Low": 280.13,
+      "Last": 280.15,
+      "Change": -2.63,
+      "PercentChange": -0.93,
+      "Volume": 66541900
+    },
+    {
+      "Time": "05/24/2019",
+      "Open": 283.74,
+      "High": 284.2,
+      "Low": 282.09,
+      "Last": 282.78,
+      "Change": 0.64,
+      "PercentChange": 0.23,
+      "Volume": 55268000
+    },
+    {
+      "Time": "05/23/2019",
+      "Open": 283.16,
+      "High": 283.21,
+      "Low": 280.57,
+      "Last": 282.14,
+      "Change": -3.49,
+      "PercentChange": -1.22,
+      "Volume": 97135104
+    },
+    {
+      "Time": "05/22/2019",
+      "Open": 285.45,
+      "High": 286.69,
+      "Low": 285.1,
+      "Last": 285.63,
+      "Change": -0.88,
+      "PercentChange": -0.31,
+      "Volume": 49482400
+    },
+    {
+      "Time": "05/21/2019",
+      "Open": 285.83,
+      "High": 286.93,
+      "Low": 285.55,
+      "Last": 286.51,
+      "Change": 2.56,
+      "PercentChange": 0.90,
+      "Volume": 46847000
+    },
+    {
+      "Time": "05/20/2019",
+      "Open": 284.06,
+      "High": 285.43,
+      "Low": 283.12,
+      "Last": 283.95,
+      "Change": -1.89,
+      "PercentChange": -0.66,
+      "Volume": 62877600
+    },
+    {
+      "Time": "05/17/2019",
+      "Open": 285.14,
+      "High": 288.6,
+      "Low": 285.1207,
+      "Last": 285.84,
+      "Change": -1.86,
+      "PercentChange": -0.65,
+      "Volume": 100353000
+    },
+    {
+      "Time": "05/16/2019",
+      "Open": 285.84,
+      "High": 289.21,
+      "Low": 285.76,
+      "Last": 287.7,
+      "Change": 2.64,
+      "PercentChange": 0.93,
+      "Volume": 76749600
+    },
+    {
+      "Time": "05/15/2019",
+      "Open": 281.59,
+      "High": 285.77,
+      "Low": 281.36,
+      "Last": 285.06,
+      "Change": 1.66,
+      "PercentChange": 0.59,
+      "Volume": 73956400
+    },
+    {
+      "Time": "05/14/2019",
+      "Open": 281.99,
+      "High": 285.1,
+      "Low": 281.85,
+      "Last": 283.4,
+      "Change": 2.54,
+      "PercentChange": 0.90,
+      "Volume": 77003200
+    },
+    {
+      "Time": "05/13/2019",
+      "Open": 282.42,
+      "High": 283.49,
+      "Low": 279.93,
+      "Last": 280.86,
+      "Change": -7.24,
+      "PercentChange": -2.51,
+      "Volume": 127290496
+    },
+    {
+      "Time": "05/10/2019",
+      "Open": 285.62,
+      "High": 288.94,
+      "Low": 282.3,
+      "Last": 288.1,
+      "Change": 1.44,
+      "PercentChange": 0.50,
+      "Volume": 112429296
+    },
+    {
+      "Time": "05/09/2019",
+      "Open": 285.23,
+      "High": 287.33,
+      "Low": 283.3,
+      "Last": 286.66,
+      "Change": -0.87,
+      "PercentChange": -0.30,
+      "Volume": 103471104
+    }
+  ]
+}

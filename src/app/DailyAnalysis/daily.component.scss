@@ -1,0 +1,22 @@
+:host ::ng-deep button {
+        margin-right: 0.5em;
+      }
+      .green {
+        color: black;
+        background-color: #00ff00;
+        text-align: middle;
+        font-weight: bold;
+      }
+      .red {
+        color: black;
+        background-color: #ff0000;
+      }
+      .grey {
+        color: white;
+        background-color: grey;
+      }
+      .normal {
+        text-align: center !important;
+        font-weight: bold !important;
+        color: black;
+      }

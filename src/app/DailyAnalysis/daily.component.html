@@ -1,0 +1,70 @@
+<p-toast position="top-center"></p-toast>
+<!-- <p-table [columns]="selectedColumns" [value]="dailyModels" [paginator]="true" [rows]="50" [showCurrentPageReport]="true"
+  currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries" [rowsPerPageOptions]="[10,25,50]"
+  styleClass="p-datatable-gridlines p-datatable-sm"> -->
+<!-- <p-chart type="pie" [data]="data"></p-chart> -->
+<p-table [columns]="selectedColumns" [value]="dailyModels" [totalRecords]="totalRecords" [(first)]="first"
+  [paginator]="true" [rows]="10" [showCurrentPageReport]="true"
+  currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries" [rowsPerPageOptions]="[10,25,50]">
+  <ng-template pTemplate="caption">
+    <div class="p-grid">
+      <div class="p-col-11">
+        <div class="p-grid">
+          <div class="p-col-fixed">
+            <p-multiSelect [options]="cols" [(ngModel)]="selectedColumns" optionLabel="header"
+              selectedItemsLabel="{0} columns selected" [style]="{minWidth: '200px'}" placeholder="Choose Columns">
+            </p-multiSelect>
+          </div>
+          <div class="p-col-fixed">
+            <p-dropdown [options]="days" [(ngModel)]="selectedDay" placeholder="Select a Date" optionLabel="name"
+              (onChange)='onDayChanged($event)' [showClear]="true"></p-dropdown>
+          </div>
+          <div class="p-col-fixed">
+            <p-dropdown [options]="daysOfTheWeek" [(ngModel)]="selectedDayOfTheWeek"
+              placeholder="Select a Day of the Week" optionLabel="name" (onChange)='onDayOfWeekChanged($event)'
+              [showClear]="true"></p-dropdown>
+          </div>
+          <div class="p-col-fixed">
+            <p-calendar [(ngModel)]="rangeDates" [ngClass]="dailyDateRange" placeholder="Select a Date Range"
+              [inputStyle]="{'width': '300px'}" selectionMode="range" [readonlyInput]="true" inputId="range"
+              (onSelect)='onCalendarChange($event)' (onClearClick)='onCalendarClear($event)' [showIcon]="true"
+              showButtonBar="true"></p-calendar>
+          </div>
+          <div class="p-col-fixed">
+            <p-button label="ADP National Employment Report Days" (onClick)="handleADPDaysClick($event)"></p-button>
+          </div>
+          <div class="p-col-fixed">
+            <p-button label="Fed Job Report Days" (onClick)="handleFedJobReportDaysClick($event)"></p-button>
+          </div>
+        </div>
+      </div>
+      <div class="p-col-1">
+        <button pButton label="Clear Filters" class="p-button-secondary" (click)="handleClearFilters($event)"></button>
+      </div>
+    </div>
+  </ng-template>
+  <ng-template pTemplate="header" let-columns>
+    <tr>
+      <th *ngFor="let col of columns" class="normal">
+        {{col.header}}
+      </th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-dailyModel let-columns="columns">
+    <tr>
+      <td *ngFor="let col of columns">
+        <div [ngClass]="getColumnStyle(col, dailyModel)">
+          <div *ngIf="col.pipe === 'currency'; else elseBlock">
+            {{dailyModel[col.field] | currency}}
+          </div>
+          <div *ngIf="col.pipe === 'number'; else elseBlock">
+            {{dailyModel[col.field] | number}}
+          </div>
+          <div *ngIf="col.pipe === 'none'; else elseBlock">
+            {{dailyModel[col.field]}}
+          </div>
+        </div>
+      </td>
+    </tr>
+  </ng-template>
+</p-table>
