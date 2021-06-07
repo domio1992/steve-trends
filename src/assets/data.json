@@ -1,5 +1,45 @@
 {
   "data": [
+     {
+      "Time": "06/07/2021",
+      "Open": 422.59,
+      "High": 422.78,
+      "Low": 421.19,
+      "Last": 422.19,
+      "Change": -0.41,
+      "PercentChange": -0.10,
+      "Volume": 51326544
+    },
+    {
+      "Time": "06/04/2021",
+      "Open": 420.75,
+      "High": 422.92,
+      "Low": 418.84,
+      "Last": 422.60,
+      "Change": 3.83,
+      "PercentChange": 0.91,
+      "Volume": 55938700
+    },
+    {
+      "Time": "06/03/2021",
+      "Open": 417.85,
+      "High": 419.99,
+      "Low": 416.28,
+      "Last": 418.77,
+      "Change": -1.56,
+      "PercentChange": -0.37,
+      "Volume": 58138700
+    },
+    {
+      "Time": "06/02/2021",
+      "Open": 420.37,
+      "High": 421.23,
+      "Low": 419.29,
+      "Last": 420.33,
+      "Change": 0.66,
+      "PercentChange":0.16,
+      "Volume": 49097000
+    },
     {
       "Time": "06/01/2021",
       "Open": 422.57,
