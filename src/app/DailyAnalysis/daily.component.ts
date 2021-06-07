@@ -414,8 +414,8 @@ export class DailyComponent {
         this.createDailyModel(data, entry, index, pieData);
       }
       if (this.rangeDates && this.rangeDates.length >= 2) {
-        const firstDate = dayjs(this.rangeDates[0]);
-        const secondDate = dayjs(this.rangeDates[1]);
+        const firstDate = dayjs(this.rangeDates[0]).startOf('day');
+        const secondDate = dayjs(this.rangeDates[1]).startOf('day');
         if (
           dayjs(timeDayJS).isBetween(firstDate, secondDate) ||
           dayjs(timeDayJS).isSame(firstDate, 'day') ||
